@@ -1,4 +1,8 @@
 
+# CPU-only PyTorch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.7.1+cpu
+
 # Data processing
 numpy>=1.26,<2.0
 pandas>=2.2,<3.0
@@ -13,11 +17,11 @@ hdbscan>=0.8.40,<0.9
 langdetect==1.0.9
 beautifulsoup4>=4.12
 
-# Dashboard and visualization
-streamlit>=1.40
+# Dashboard
+streamlit
 plotly>=6.0
 
-# Utilities and API integration
+# Utilities
 python-dotenv>=1.0
 requests>=2.32
 tqdm>=4.66
