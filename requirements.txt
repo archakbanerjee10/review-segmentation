@@ -9,7 +9,7 @@ matplotlib
 seaborn
 beautifulsoup4
 sentence-transformers
-umap
+umap-learn
 hbdscan
 scikit-learn
 langdetect
