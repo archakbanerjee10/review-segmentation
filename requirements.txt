@@ -1,18 +1,25 @@
+
+# Data processing
 pandas
-numpy 
-datasets
-pyarrow
-huggingface_hub
-notebook
-ipykernel
-matplotlib
-seaborn
-beautifulsoup4
-sentence-transformers
-umap
-hbdscan
+numpy
+
+# Machine learning and embeddings
 scikit-learn
+sentence-transformers
+umap-learn
+hdbscan
+
+# Text processing
 langdetect
-OpenAI
+beautifulsoup4
+
+# Visualization and dashboard
 streamlit
 plotly
+
+# Utilities
+python-dotenv
+tqdm
+
+# API integration for LLM-based insights
+requests
