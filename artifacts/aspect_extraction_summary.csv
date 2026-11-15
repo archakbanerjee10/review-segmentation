@@ -1,0 +1,15 @@
+record_type,aspect_id,aspect_name,review_count,mention_count,cluster_hint_count
+product_aspect,sound_quality,Sound Quality,1162,1162,317
+product_aspect,connectivity,Bluetooth Connectivity,716,716,126
+product_aspect,price_value,Price and Value for Money,589,589,129
+product_aspect,workout_stability,Workout Stability,484,484,172
+product_aspect,battery,Battery Performance,399,399,75
+product_aspect,charging_durability,Charging and Durability,380,380,160
+product_aspect,comfort_fit,Comfort and Ear Fit,325,325,84
+product_aspect,water_resistance,Water and Sweat Resistance,126,126,79
+purchase_insight,repeat_purchases,Repeat Purchases and Loyalty,124,124,30
+product_aspect,accessories,Accessories and Packaging,122,122,22
+product_aspect,noise_cancellation,Noise Cancellation,112,112,30
+product_aspect,design_build,Design and Build Quality,98,98,6
+product_aspect,audio_defects,Audio and Earbud Defects,51,51,8
+purchase_insight,gift_purchases,Gift Purchases,45,45,11

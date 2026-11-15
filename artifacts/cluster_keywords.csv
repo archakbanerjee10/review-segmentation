@@ -1,0 +1,331 @@
+cluster,rank,keyword,score
+0,1,senso,0.1262
+0,2,beats,0.0602
+0,3,headphones,0.0531
+0,4,sound,0.0394
+0,5,pair,0.0393
+0,6,bought,0.0382
+0,7,quality,0.0379
+0,8,senso headphones,0.0297
+0,9,bluetooth,0.0284
+0,10,senso bluetooth,0.0265
+0,11,like,0.0257
+0,12,product,0.0248
+0,13,ve,0.0245
+0,14,better,0.0244
+0,15,ear,0.024
+1,1,love,0.1268
+1,2,great,0.1045
+1,3,gift,0.0753
+1,4,loves,0.0704
+1,5,husband,0.039
+1,6,good,0.0389
+1,7,christmas,0.0322
+1,8,really,0.0321
+1,9,awesome,0.0301
+1,10,work,0.0286
+1,11,bought,0.027
+1,12,daughter,0.0264
+1,13,happy,0.0258
+1,14,bought husband,0.0254
+1,15,husband love,0.0253
+2,1,product,0.1095
+2,2,price,0.0876
+2,3,great product,0.0623
+2,4,great,0.0602
+2,5,good,0.0565
+2,6,works,0.0541
+2,7,product price,0.0504
+2,8,good product,0.041
+2,9,quality,0.0349
+2,10,works great,0.029
+2,11,thank,0.0254
+2,12,buy,0.0243
+2,13,great price,0.0242
+2,14,worth,0.0241
+2,15,good quality,0.0234
+3,1,pair,0.1782
+3,2,second,0.0793
+3,3,second pair,0.0773
+3,4,bought,0.0384
+3,5,great,0.0319
+3,6,purchased,0.0312
+3,7,bought pair,0.0285
+3,8,ordered,0.0283
+3,9,love,0.0281
+3,10,just,0.0274
+3,11,price,0.0271
+3,12,lost,0.0255
+3,13,months,0.0245
+3,14,3rd pair,0.0239
+3,15,set,0.0236
+4,1,month,0.0534
+4,2,stopped,0.0528
+4,3,charge,0.0488
+4,4,working,0.0468
+4,5,stopped working,0.0441
+4,6,months,0.0391
+4,7,worked,0.0298
+4,8,won,0.0274
+4,9,charging,0.0262
+4,10,working month,0.026
+4,11,work,0.026
+4,12,broke,0.0252
+4,13,weeks,0.0251
+4,14,bought,0.0221
+4,15,ve,0.0189
+5,1,easy,0.1276
+5,2,connect,0.0597
+5,3,easy connect,0.058
+5,4,sound,0.0552
+5,5,good,0.0436
+5,6,easily,0.0413
+5,7,pairing,0.033
+5,8,connected,0.032
+5,9,good sound,0.0313
+5,10,great,0.0308
+5,11,pair,0.0297
+5,12,product,0.0284
+5,13,charge,0.0276
+5,14,easy pairing,0.0255
+5,15,controls,0.025
+6,1,bass,0.2235
+6,2,sound,0.0538
+6,3,treble,0.0519
+6,4,ear,0.0423
+6,5,like,0.0376
+6,6,price,0.0353
+6,7,good bass,0.0335
+6,8,fit,0.0325
+6,9,music,0.0315
+6,10,good,0.0313
+6,11,quality,0.0304
+6,12,sounds,0.0271
+6,13,best,0.026
+6,14,said,0.0246
+6,15,earbuds,0.0232
+7,1,noise,0.1569
+7,2,cancelling,0.0791
+7,3,noise cancelling,0.0737
+7,4,cancellation,0.0682
+7,5,hear,0.0558
+7,6,noise cancellation,0.0485
+7,7,noise canceling,0.0447
+7,8,canceling,0.0429
+7,9,great,0.0402
+7,10,good,0.0364
+7,11,sound,0.0344
+7,12,use,0.0294
+7,13,really,0.0279
+7,14,quality,0.0272
+7,15,cancel,0.0262
+8,1,comfortable,0.2182
+8,2,uncomfortable,0.0911
+8,3,sound,0.0679
+8,4,great,0.0646
+8,5,great sound,0.0629
+8,6,easy,0.0587
+8,7,comfortable easy,0.0566
+8,8,comfortable great,0.0532
+8,9,use,0.0486
+8,10,use great,0.0412
+8,11,easy use,0.04
+8,12,work,0.0382
+8,13,great comfortable,0.0371
+8,14,10 minutes,0.0297
+8,15,work comfortable,0.0292
+9,1,sound,0.1057
+9,2,good,0.072
+9,3,quality,0.0716
+9,4,sound quality,0.0615
+9,5,great,0.0488
+9,6,good sound,0.045
+9,7,great sound,0.0348
+9,8,price,0.0291
+9,9,battery,0.0271
+9,10,product,0.023
+9,11,fit,0.0222
+9,12,life,0.0219
+9,13,use,0.0217
+9,14,easy,0.0213
+9,15,battery life,0.02
+10,1,water,0.1083
+10,2,waterproof,0.1082
+10,3,pool,0.0613
+10,4,swimming,0.0477
+10,5,headphones,0.0402
+10,6,water proof,0.0386
+10,7,work,0.0383
+10,8,proof,0.0354
+10,9,great,0.0329
+10,10,use,0.0282
+10,11,swim,0.0275
+10,12,ipx7,0.0262
+10,13,sound,0.0219
+10,14,waterproof headphones,0.0213
+10,15,quality,0.0211
+11,1,phone,0.0626
+11,2,bluetooth,0.054
+11,3,connection,0.0536
+11,4,connect,0.0343
+11,5,cuts,0.0311
+11,6,devices,0.0299
+11,7,connectivity,0.0285
+11,8,sound,0.0273
+11,9,issues,0.0266
+11,10,bluetooth connection,0.0256
+11,11,signal,0.0246
+11,12,connected,0.0234
+11,13,ve,0.0222
+11,14,use,0.0221
+11,15,work,0.0218
+12,1,right,0.1002
+12,2,left,0.0861
+12,3,bud,0.0735
+12,4,right ear,0.0639
+12,5,working,0.0627
+12,6,works,0.0587
+12,7,ear,0.0574
+12,8,stopped,0.0521
+12,9,stopped working,0.0437
+12,10,ear bud,0.0396
+12,11,work,0.0348
+12,12,hear,0.0337
+12,13,did,0.0303
+12,14,did work,0.0294
+12,15,use,0.029
+13,1,sweat,0.0902
+13,2,charge,0.0434
+13,3,battery,0.0424
+13,4,years,0.0404
+13,5,headphones,0.0366
+13,6,gym,0.0346
+13,7,use,0.0335
+13,8,life,0.0321
+13,9,battery life,0.0283
+13,10,great,0.0283
+13,11,pair,0.0275
+13,12,work,0.0274
+13,13,ve,0.0271
+13,14,sweaty,0.027
+13,15,proof,0.0269
+14,1,headphones,0.0825
+14,2,charge,0.061
+14,3,pair,0.0403
+14,4,warranty,0.0366
+14,5,stopped,0.0362
+14,6,charging,0.0325
+14,7,months,0.0317
+14,8,year,0.0304
+14,9,worked,0.0279
+14,10,work,0.0274
+14,11,working,0.0274
+14,12,just,0.0271
+14,13,turn,0.0242
+14,14,replacement,0.0237
+14,15,use,0.0233
+15,1,headphones,0.0521
+15,2,battery,0.0441
+15,3,pair,0.0382
+15,4,great,0.0359
+15,5,ve,0.035
+15,6,years,0.0337
+15,7,months,0.0294
+15,8,use,0.0289
+15,9,life,0.0281
+15,10,ear,0.0275
+15,11,battery life,0.0275
+15,12,used,0.0266
+15,13,charge,0.026
+15,14,sound,0.0247
+15,15,lasted,0.024
+16,1,headphones,0.0901
+16,2,came,0.0803
+16,3,case,0.0742
+16,4,nice,0.0622
+16,5,accessories,0.0516
+16,6,extras,0.0449
+16,7,great,0.041
+16,8,items,0.0342
+16,9,like,0.0341
+16,10,carrying case,0.0335
+16,11,sound,0.033
+16,12,carrying,0.0329
+16,13,nice case,0.0317
+16,14,price,0.0316
+16,15,car,0.0303
+17,1,bluetooth,0.103
+17,2,pair,0.0457
+17,3,ear,0.044
+17,4,sound,0.043
+17,5,bluetooth headphones,0.0423
+17,6,headphones,0.0407
+17,7,good,0.0363
+17,8,bluetooth earbuds,0.036
+17,9,quality,0.0339
+17,10,earbuds,0.0338
+17,11,pair bluetooth,0.0337
+17,12,great,0.031
+17,13,phone,0.0305
+17,14,set,0.0287
+17,15,best,0.0274
+18,1,ear,0.0958
+18,2,ears,0.0691
+18,3,fit,0.0461
+18,4,stay,0.0375
+18,5,earbuds,0.0338
+18,6,buds,0.0319
+18,7,great,0.0272
+18,8,sound,0.0262
+18,9,fall,0.0244
+18,10,good,0.024
+18,11,like,0.0222
+18,12,love,0.02
+18,13,hooks,0.019
+18,14,ear buds,0.0178
+18,15,work,0.0174
+19,1,headphones,0.1263
+19,2,great,0.0726
+19,3,price,0.049
+19,4,great headphones,0.0456
+19,5,love,0.0426
+19,6,love headphones,0.0386
+19,7,sound,0.0384
+19,8,good,0.0382
+19,9,quality,0.0324
+19,10,headphones great,0.0308
+19,11,best,0.0282
+19,12,headphone,0.0282
+19,13,great sound,0.0232
+19,14,headphones price,0.023
+19,15,best headphones,0.0223
+20,1,wireless,0.1256
+20,2,wireless headphones,0.0604
+20,3,headphones,0.0597
+20,4,ear,0.0439
+20,5,great,0.0402
+20,6,price,0.0332
+20,7,sound,0.0331
+20,8,use,0.033
+20,9,ears,0.0319
+20,10,like,0.0302
+20,11,fit,0.0268
+20,12,battery,0.0254
+20,13,earbuds,0.0239
+20,14,quality,0.0231
+20,15,don,0.023
+21,1,running,0.054
+21,2,gym,0.0538
+21,3,great,0.0479
+21,4,use,0.0396
+21,5,headphones,0.0347
+21,6,good,0.0331
+21,7,sound,0.028
+21,8,working,0.0279
+21,9,work,0.0256
+21,10,stay,0.0243
+21,11,ear,0.0242
+21,12,love,0.0235
+21,13,used,0.0201
+21,14,ears,0.0199
+21,15,phone,0.0191

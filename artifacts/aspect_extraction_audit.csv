@@ -1,0 +1,2756 @@
+review_id,cluster,detected_aspects,number_of_detected_aspects,has_detected_aspect
+0,-1,,0,False
+1,-1,price_value,1,True
+2,2,design_build,1,True
+3,18,,0,False
+4,21,workout_stability,1,True
+5,18,sound_quality | workout_stability | design_build,3,True
+6,10,sound_quality | water_resistance,2,True
+7,19,sound_quality | comfort_fit | workout_stability | charging_durability,4,True
+8,-1,sound_quality | connectivity,2,True
+9,6,sound_quality | price_value,2,True
+10,9,sound_quality | comfort_fit,2,True
+11,19,,0,False
+12,11,sound_quality | connectivity,2,True
+13,-1,battery | charging_durability | connectivity | price_value,4,True
+14,-1,,0,False
+15,1,,0,False
+16,10,workout_stability | charging_durability,2,True
+17,18,sound_quality | workout_stability,2,True
+18,18,sound_quality | comfort_fit | battery,3,True
+19,-1,sound_quality | connectivity,2,True
+20,21,comfort_fit | workout_stability,2,True
+21,9,sound_quality,1,True
+22,15,,0,False
+23,21,,0,False
+24,3,charging_durability | connectivity | repeat_purchases,3,True
+25,-1,comfort_fit | connectivity | price_value,3,True
+26,11,charging_durability | connectivity | audio_defects,3,True
+27,-1,sound_quality | comfort_fit,2,True
+28,9,sound_quality,1,True
+29,18,,0,False
+30,15,sound_quality | price_value,2,True
+31,12,,0,False
+32,19,,0,False
+33,-1,sound_quality | comfort_fit,2,True
+34,19,price_value,1,True
+35,21,sound_quality | battery,2,True
+36,14,charging_durability,1,True
+37,9,price_value,1,True
+38,-1,workout_stability,1,True
+39,14,,0,False
+40,21,sound_quality | comfort_fit | workout_stability,3,True
+41,10,sound_quality | workout_stability | connectivity | water_resistance,4,True
+42,9,sound_quality | connectivity,2,True
+43,-1,,0,False
+44,9,sound_quality,1,True
+45,11,connectivity,1,True
+46,21,sound_quality | comfort_fit | workout_stability | price_value | design_build,5,True
+47,9,,0,False
+48,-1,comfort_fit | design_build | accessories,3,True
+49,1,,0,False
+50,7,connectivity | noise_cancellation,2,True
+51,15,,0,False
+52,3,connectivity | price_value,2,True
+53,15,sound_quality | charging_durability | noise_cancellation,3,True
+54,9,price_value,1,True
+55,9,,0,False
+56,13,workout_stability | charging_durability | water_resistance | price_value,4,True
+57,10,water_resistance,1,True
+58,14,battery | charging_durability | accessories,3,True
+59,14,connectivity,1,True
+60,18,charging_durability | connectivity,2,True
+61,9,sound_quality | battery | connectivity | price_value,4,True
+62,18,,0,False
+63,19,,0,False
+64,2,,0,False
+65,9,sound_quality,1,True
+66,9,sound_quality | design_build,2,True
+67,2,,0,False
+68,2,price_value,1,True
+69,9,sound_quality,1,True
+70,19,,0,False
+71,4,,0,False
+72,18,sound_quality | comfort_fit,2,True
+73,11,sound_quality | connectivity,2,True
+74,9,sound_quality | comfort_fit,2,True
+75,19,sound_quality | workout_stability,2,True
+76,-1,,0,False
+77,-1,sound_quality | accessories,2,True
+78,9,sound_quality,1,True
+79,-1,,0,False
+80,5,workout_stability | connectivity,2,True
+81,6,sound_quality,1,True
+82,9,sound_quality,1,True
+83,3,sound_quality | connectivity | repeat_purchases,3,True
+84,14,,0,False
+85,-1,sound_quality | connectivity | water_resistance,3,True
+86,6,sound_quality | workout_stability | connectivity,3,True
+87,-1,sound_quality | workout_stability | battery | audio_defects | design_build,5,True
+88,11,,0,False
+89,15,sound_quality | workout_stability | connectivity | price_value,4,True
+90,-1,sound_quality,1,True
+91,2,,0,False
+92,18,sound_quality | price_value | design_build,3,True
+93,14,sound_quality | design_build,2,True
+94,9,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+95,2,price_value,1,True
+96,0,sound_quality,1,True
+97,14,charging_durability | gift_purchases,2,True
+98,9,sound_quality,1,True
+99,11,connectivity,1,True
+100,12,charging_durability | audio_defects,2,True
+101,9,sound_quality | battery | price_value,3,True
+102,18,sound_quality | connectivity | design_build | accessories,4,True
+103,7,workout_stability | connectivity | noise_cancellation,3,True
+104,12,,0,False
+105,8,comfort_fit | workout_stability | price_value,3,True
+106,9,sound_quality | price_value,2,True
+107,2,,0,False
+108,1,,0,False
+109,21,,0,False
+110,-1,sound_quality | comfort_fit | workout_stability | connectivity | noise_cancellation | price_value | design_build,7,True
+111,4,,0,False
+112,18,workout_stability,1,True
+113,13,workout_stability | connectivity | price_value | repeat_purchases,4,True
+114,-1,sound_quality | workout_stability | price_value,3,True
+115,4,charging_durability,1,True
+116,10,water_resistance,1,True
+117,14,connectivity,1,True
+118,-1,battery,1,True
+119,1,,0,False
+120,17,sound_quality | comfort_fit | workout_stability | battery | connectivity | price_value,6,True
+121,-1,sound_quality | connectivity | repeat_purchases,3,True
+122,19,accessories,1,True
+123,8,sound_quality | comfort_fit,2,True
+124,13,,0,False
+125,18,workout_stability,1,True
+126,9,,0,False
+127,20,charging_durability | price_value,2,True
+128,19,price_value,1,True
+129,2,,0,False
+130,18,workout_stability | connectivity | design_build | repeat_purchases,4,True
+131,4,charging_durability | price_value,2,True
+132,9,price_value,1,True
+133,21,sound_quality | connectivity,2,True
+134,-1,sound_quality | charging_durability | water_resistance,3,True
+135,21,sound_quality | workout_stability | price_value,3,True
+136,2,accessories,1,True
+137,21,sound_quality | workout_stability,2,True
+138,2,price_value,1,True
+139,2,price_value,1,True
+140,7,sound_quality | workout_stability | battery | charging_durability | connectivity | noise_cancellation,6,True
+141,18,sound_quality | workout_stability | battery,3,True
+142,3,price_value,1,True
+143,0,sound_quality | battery | water_resistance,3,True
+144,20,sound_quality | price_value | design_build,3,True
+145,10,workout_stability | charging_durability | water_resistance,3,True
+146,15,connectivity,1,True
+147,21,sound_quality,1,True
+148,15,sound_quality | comfort_fit | workout_stability,3,True
+149,-1,,0,False
+150,2,,0,False
+151,-1,workout_stability,1,True
+152,2,,0,False
+153,2,,0,False
+154,-1,workout_stability | battery | connectivity,3,True
+155,6,sound_quality | workout_stability | price_value,3,True
+156,-1,sound_quality | accessories,2,True
+157,10,water_resistance,1,True
+158,2,,0,False
+159,14,sound_quality,1,True
+160,9,,0,False
+161,18,sound_quality | comfort_fit | connectivity | price_value | repeat_purchases,5,True
+162,-1,workout_stability | battery | connectivity | price_value | accessories,5,True
+163,-1,sound_quality | comfort_fit | battery,3,True
+164,18,design_build,1,True
+165,2,price_value,1,True
+166,21,sound_quality | comfort_fit | workout_stability | connectivity | price_value | accessories,6,True
+167,4,charging_durability,1,True
+168,2,,0,False
+169,-1,,0,False
+170,9,sound_quality | price_value,2,True
+171,-1,sound_quality | workout_stability | connectivity,3,True
+172,-1,sound_quality | charging_durability | connectivity,3,True
+173,19,sound_quality | price_value,2,True
+174,9,sound_quality,1,True
+175,-1,sound_quality | comfort_fit | workout_stability | design_build,4,True
+176,-1,workout_stability | audio_defects,2,True
+177,18,sound_quality | design_build,2,True
+178,11,connectivity,1,True
+179,9,sound_quality | battery,2,True
+180,18,sound_quality | workout_stability | connectivity,3,True
+181,5,sound_quality,1,True
+182,-1,sound_quality | connectivity,2,True
+183,2,,0,False
+184,-1,connectivity | price_value,2,True
+185,2,,0,False
+186,-1,sound_quality | workout_stability,2,True
+187,-1,sound_quality | comfort_fit | workout_stability | connectivity | design_build,5,True
+188,2,,0,False
+189,-1,sound_quality | comfort_fit | connectivity,3,True
+190,9,sound_quality,1,True
+191,-1,sound_quality | charging_durability,2,True
+192,4,charging_durability,1,True
+193,-1,sound_quality | comfort_fit,2,True
+194,15,charging_durability | price_value,2,True
+195,9,sound_quality | gift_purchases,2,True
+196,19,price_value,1,True
+197,15,comfort_fit | connectivity | price_value,3,True
+198,21,workout_stability,1,True
+199,-1,,0,False
+200,9,sound_quality,1,True
+201,9,,0,False
+202,-1,sound_quality | comfort_fit | workout_stability | charging_durability | connectivity,5,True
+203,2,,0,False
+204,11,connectivity,1,True
+205,-1,,0,False
+206,21,sound_quality | workout_stability,2,True
+207,9,,0,False
+208,5,sound_quality | connectivity,2,True
+209,12,charging_durability | audio_defects | accessories,3,True
+210,21,workout_stability | connectivity,2,True
+211,-1,workout_stability,1,True
+212,21,workout_stability | battery | price_value,3,True
+213,13,workout_stability | charging_durability | connectivity | water_resistance | audio_defects | price_value,6,True
+214,-1,sound_quality | workout_stability | connectivity,3,True
+215,-1,sound_quality | price_value,2,True
+216,2,,0,False
+217,18,comfort_fit | accessories,2,True
+218,10,battery | charging_durability | water_resistance,3,True
+219,17,comfort_fit | workout_stability | price_value | design_build,4,True
+220,-1,charging_durability | audio_defects,2,True
+221,9,sound_quality,1,True
+222,18,noise_cancellation,1,True
+223,1,,0,False
+224,18,water_resistance,1,True
+225,18,sound_quality | workout_stability | charging_durability,3,True
+226,-1,,0,False
+227,13,workout_stability,1,True
+228,-1,battery,1,True
+229,2,,0,False
+230,-1,sound_quality | battery | connectivity | audio_defects,4,True
+231,15,comfort_fit | battery,2,True
+232,4,,0,False
+233,9,sound_quality | audio_defects | price_value,3,True
+234,6,sound_quality | noise_cancellation | design_build,3,True
+235,15,charging_durability | connectivity | price_value,3,True
+236,7,battery | noise_cancellation,2,True
+237,21,comfort_fit | workout_stability | connectivity | design_build,4,True
+238,18,sound_quality,1,True
+239,2,gift_purchases,1,True
+240,7,sound_quality | noise_cancellation,2,True
+241,10,comfort_fit | battery | charging_durability | water_resistance,4,True
+242,17,,0,False
+243,9,sound_quality | charging_durability | price_value,3,True
+244,3,connectivity | price_value | gift_purchases,3,True
+245,2,,0,False
+246,1,,0,False
+247,9,sound_quality,1,True
+248,21,sound_quality | workout_stability,2,True
+249,11,connectivity,1,True
+250,9,sound_quality | design_build,2,True
+251,2,price_value,1,True
+252,21,workout_stability,1,True
+253,9,sound_quality,1,True
+254,15,sound_quality | comfort_fit | noise_cancellation,3,True
+255,20,sound_quality | workout_stability | connectivity,3,True
+256,9,sound_quality,1,True
+257,9,sound_quality | connectivity,2,True
+258,4,charging_durability,1,True
+259,4,charging_durability | accessories,2,True
+260,11,connectivity,1,True
+261,18,,0,False
+262,-1,sound_quality | comfort_fit | connectivity,3,True
+263,20,,0,False
+264,-1,sound_quality | workout_stability,2,True
+265,9,sound_quality | battery,2,True
+266,-1,sound_quality | comfort_fit | workout_stability | price_value,4,True
+267,11,sound_quality | connectivity,2,True
+268,21,sound_quality | workout_stability | connectivity,3,True
+269,15,sound_quality | comfort_fit | battery | connectivity,4,True
+270,19,,0,False
+271,9,sound_quality | price_value,2,True
+272,18,comfort_fit,1,True
+273,-1,battery,1,True
+274,2,,0,False
+275,14,,0,False
+276,14,,0,False
+277,13,water_resistance | accessories,2,True
+278,21,,0,False
+279,19,,0,False
+280,14,sound_quality | battery | charging_durability,3,True
+281,-1,battery | price_value,2,True
+282,13,workout_stability | charging_durability | connectivity | water_resistance | repeat_purchases,5,True
+283,-1,sound_quality | comfort_fit | battery | connectivity | audio_defects | accessories,6,True
+284,18,sound_quality,1,True
+285,10,water_resistance,1,True
+286,2,price_value,1,True
+287,3,,0,False
+288,17,comfort_fit,1,True
+289,3,sound_quality | connectivity | price_value,3,True
+290,21,workout_stability,1,True
+291,15,sound_quality | comfort_fit | battery | connectivity,4,True
+292,10,sound_quality | comfort_fit | battery | connectivity | price_value,5,True
+293,3,connectivity | price_value,2,True
+294,19,sound_quality,1,True
+295,21,workout_stability | battery | price_value,3,True
+296,3,connectivity,1,True
+297,0,sound_quality | comfort_fit | connectivity | price_value,4,True
+298,2,,0,False
+299,2,,0,False
+300,17,connectivity | price_value,2,True
+301,7,noise_cancellation,1,True
+302,-1,water_resistance,1,True
+303,0,sound_quality | battery,2,True
+304,18,sound_quality | workout_stability,2,True
+305,4,price_value,1,True
+306,15,sound_quality,1,True
+307,18,price_value,1,True
+308,19,sound_quality | connectivity | price_value,3,True
+309,18,,0,False
+310,-1,sound_quality,1,True
+311,0,sound_quality | battery | connectivity | repeat_purchases,4,True
+312,6,sound_quality,1,True
+313,-1,sound_quality | price_value,2,True
+314,9,,0,False
+315,20,comfort_fit | workout_stability | price_value,3,True
+316,4,,0,False
+317,-1,battery | charging_durability,2,True
+318,14,connectivity,1,True
+319,-1,battery,1,True
+320,11,sound_quality | connectivity,2,True
+321,11,price_value,1,True
+322,2,price_value,1,True
+323,-1,sound_quality,1,True
+324,9,sound_quality,1,True
+325,1,price_value,1,True
+326,19,,0,False
+327,-1,workout_stability,1,True
+328,2,,0,False
+329,4,price_value,1,True
+330,9,sound_quality,1,True
+331,-1,sound_quality,1,True
+332,0,sound_quality | charging_durability | noise_cancellation,3,True
+333,-1,sound_quality,1,True
+334,21,,0,False
+335,15,connectivity,1,True
+336,-1,,0,False
+337,14,,0,False
+338,5,sound_quality,1,True
+339,7,sound_quality,1,True
+340,4,,0,False
+341,21,workout_stability,1,True
+342,18,sound_quality | noise_cancellation,2,True
+343,-1,sound_quality | comfort_fit | workout_stability | connectivity,4,True
+344,-1,,0,False
+345,15,sound_quality,1,True
+346,-1,sound_quality | price_value,2,True
+347,4,charging_durability,1,True
+348,9,sound_quality | workout_stability | price_value,3,True
+349,19,,0,False
+350,15,connectivity,1,True
+351,9,sound_quality | battery | charging_durability | design_build | accessories,5,True
+352,0,,0,False
+353,-1,sound_quality | workout_stability | charging_durability | price_value,4,True
+354,-1,comfort_fit,1,True
+355,9,sound_quality | charging_durability,2,True
+356,-1,sound_quality,1,True
+357,2,price_value,1,True
+358,14,charging_durability,1,True
+359,18,sound_quality | connectivity | design_build,3,True
+360,15,comfort_fit | charging_durability,2,True
+361,9,sound_quality | comfort_fit,2,True
+362,13,connectivity | water_resistance,2,True
+363,19,,0,False
+364,9,sound_quality,1,True
+365,-1,price_value,1,True
+366,4,,0,False
+367,12,,0,False
+368,-1,sound_quality | comfort_fit | workout_stability | connectivity,4,True
+369,-1,sound_quality | workout_stability | charging_durability | connectivity | price_value,5,True
+370,21,sound_quality | comfort_fit | workout_stability | charging_durability | connectivity | noise_cancellation | price_value,7,True
+371,18,sound_quality | comfort_fit,2,True
+372,-1,sound_quality | battery,2,True
+373,17,sound_quality | comfort_fit | workout_stability,3,True
+374,3,connectivity | repeat_purchases,2,True
+375,5,,0,False
+376,21,sound_quality | workout_stability | connectivity,3,True
+377,9,sound_quality | noise_cancellation | price_value,3,True
+378,21,sound_quality | workout_stability,2,True
+379,-1,comfort_fit | price_value,2,True
+380,6,sound_quality | price_value,2,True
+381,14,sound_quality | charging_durability | connectivity,3,True
+382,9,price_value,1,True
+383,2,,0,False
+384,19,,0,False
+385,1,,0,False
+386,2,price_value | repeat_purchases,2,True
+387,18,comfort_fit | workout_stability,2,True
+388,9,price_value,1,True
+389,-1,sound_quality | charging_durability | price_value,3,True
+390,0,connectivity | repeat_purchases,2,True
+391,5,sound_quality | connectivity | price_value,3,True
+392,-1,sound_quality | price_value,2,True
+393,0,sound_quality | connectivity,2,True
+394,-1,comfort_fit,1,True
+395,4,charging_durability,1,True
+396,18,comfort_fit,1,True
+397,9,sound_quality | comfort_fit | accessories,3,True
+398,18,sound_quality,1,True
+399,4,charging_durability,1,True
+400,21,sound_quality | workout_stability | connectivity | price_value,4,True
+401,19,,0,False
+402,5,sound_quality | comfort_fit,2,True
+403,9,sound_quality | workout_stability,2,True
+404,20,sound_quality | battery | price_value | design_build,4,True
+405,9,sound_quality | comfort_fit,2,True
+406,8,comfort_fit,1,True
+407,19,sound_quality | battery | connectivity | noise_cancellation,4,True
+408,-1,sound_quality | price_value,2,True
+409,19,sound_quality | price_value,2,True
+410,11,connectivity,1,True
+411,16,charging_durability | accessories,2,True
+412,9,sound_quality | price_value,2,True
+413,8,sound_quality | comfort_fit,2,True
+414,-1,sound_quality | workout_stability | battery | connectivity | price_value,5,True
+415,9,sound_quality,1,True
+416,4,battery,1,True
+417,21,sound_quality | workout_stability | charging_durability | connectivity,4,True
+418,15,comfort_fit | battery | charging_durability | connectivity,4,True
+419,18,connectivity | price_value,2,True
+420,19,,0,False
+421,21,sound_quality,1,True
+422,-1,sound_quality | workout_stability,2,True
+423,11,connectivity | price_value,2,True
+424,21,sound_quality | comfort_fit | workout_stability | battery | price_value,5,True
+425,9,sound_quality,1,True
+426,20,connectivity,1,True
+427,18,sound_quality | comfort_fit | workout_stability | connectivity | noise_cancellation | water_resistance | price_value,7,True
+428,-1,sound_quality | battery | connectivity,3,True
+429,4,workout_stability | connectivity,2,True
+430,0,,0,False
+431,2,,0,False
+432,18,,0,False
+433,-1,sound_quality | connectivity | audio_defects | accessories,4,True
+434,-1,sound_quality | battery | connectivity,3,True
+435,-1,,0,False
+436,19,,0,False
+437,18,sound_quality | price_value | design_build,3,True
+438,-1,,0,False
+439,15,charging_durability,1,True
+440,11,,0,False
+441,3,charging_durability | connectivity,2,True
+442,4,battery | connectivity,2,True
+443,-1,sound_quality,1,True
+444,15,sound_quality | battery,2,True
+445,9,,0,False
+446,-1,battery,1,True
+447,21,workout_stability | battery,2,True
+448,9,sound_quality,1,True
+449,-1,workout_stability,1,True
+450,-1,price_value,1,True
+451,21,workout_stability | connectivity,2,True
+452,18,sound_quality | comfort_fit | connectivity | price_value,4,True
+453,18,comfort_fit,1,True
+454,-1,,0,False
+455,1,,0,False
+456,9,sound_quality,1,True
+457,20,sound_quality | comfort_fit,2,True
+458,4,charging_durability,1,True
+459,9,sound_quality | connectivity,2,True
+460,15,sound_quality | battery | charging_durability,3,True
+461,-1,comfort_fit,1,True
+462,21,,0,False
+463,16,,0,False
+464,21,sound_quality | workout_stability | battery,3,True
+465,4,charging_durability,1,True
+466,14,,0,False
+467,21,,0,False
+468,4,,0,False
+469,9,sound_quality,1,True
+470,0,price_value,1,True
+471,2,,0,False
+472,4,charging_durability,1,True
+473,15,sound_quality | battery | charging_durability,3,True
+474,14,,0,False
+475,-1,sound_quality | battery,2,True
+476,-1,connectivity,1,True
+477,21,sound_quality | comfort_fit,2,True
+478,19,price_value | design_build,2,True
+479,-1,sound_quality | accessories,2,True
+480,-1,sound_quality | comfort_fit | connectivity,3,True
+481,0,,0,False
+482,1,gift_purchases,1,True
+483,-1,sound_quality | price_value,2,True
+484,1,,0,False
+485,16,accessories,1,True
+486,15,sound_quality | battery | accessories,3,True
+487,9,sound_quality | battery | price_value,3,True
+488,4,charging_durability,1,True
+489,13,workout_stability | price_value,2,True
+490,0,sound_quality | workout_stability | connectivity,3,True
+491,14,connectivity | repeat_purchases,2,True
+492,4,,0,False
+493,14,charging_durability,1,True
+494,21,sound_quality | workout_stability | battery | charging_durability,4,True
+495,18,sound_quality | battery,2,True
+496,15,battery,1,True
+497,18,,0,False
+498,9,sound_quality,1,True
+499,15,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+500,15,,0,False
+501,-1,sound_quality | connectivity,2,True
+502,18,,0,False
+503,9,sound_quality | design_build,2,True
+504,14,charging_durability,1,True
+505,9,sound_quality,1,True
+506,4,charging_durability,1,True
+507,-1,sound_quality | connectivity,2,True
+508,9,sound_quality,1,True
+509,4,,0,False
+510,0,,0,False
+511,-1,sound_quality | comfort_fit | price_value,3,True
+512,-1,sound_quality | comfort_fit | workout_stability,3,True
+513,10,sound_quality | water_resistance,2,True
+514,21,sound_quality,1,True
+515,11,sound_quality | charging_durability | connectivity,3,True
+516,6,sound_quality | workout_stability | connectivity | noise_cancellation,4,True
+517,1,,0,False
+518,-1,sound_quality | price_value,2,True
+519,21,sound_quality | connectivity,2,True
+520,-1,sound_quality,1,True
+521,19,sound_quality,1,True
+522,20,battery | price_value,2,True
+523,20,gift_purchases,1,True
+524,2,,0,False
+525,21,sound_quality | battery | price_value,3,True
+526,-1,sound_quality | price_value,2,True
+527,18,,0,False
+528,-1,sound_quality | battery | connectivity | price_value | accessories,5,True
+529,15,,0,False
+530,-1,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+531,2,price_value,1,True
+532,1,,0,False
+533,15,sound_quality | charging_durability | connectivity | price_value,4,True
+534,9,sound_quality | battery,2,True
+535,2,price_value,1,True
+536,16,comfort_fit | battery | price_value | accessories,4,True
+537,14,connectivity,1,True
+538,-1,comfort_fit,1,True
+539,19,charging_durability,1,True
+540,18,comfort_fit | connectivity,2,True
+541,-1,workout_stability | battery | connectivity | price_value,4,True
+542,-1,,0,False
+543,9,sound_quality,1,True
+544,11,,0,False
+545,9,connectivity,1,True
+546,-1,sound_quality | comfort_fit,2,True
+547,11,sound_quality | connectivity | audio_defects,3,True
+548,9,sound_quality,1,True
+549,-1,sound_quality | charging_durability | price_value,3,True
+550,9,sound_quality | price_value,2,True
+551,19,sound_quality | workout_stability | battery | connectivity | price_value,5,True
+552,-1,connectivity,1,True
+553,1,gift_purchases,1,True
+554,14,sound_quality | audio_defects,2,True
+555,9,battery | price_value,2,True
+556,14,,0,False
+557,-1,battery | accessories,2,True
+558,-1,sound_quality | price_value,2,True
+559,11,connectivity | water_resistance,2,True
+560,18,sound_quality,1,True
+561,21,sound_quality | workout_stability | battery,3,True
+562,-1,sound_quality | price_value,2,True
+563,-1,,0,False
+564,20,sound_quality,1,True
+565,16,sound_quality | workout_stability | charging_durability | price_value | accessories,5,True
+566,8,comfort_fit,1,True
+567,-1,,0,False
+568,2,price_value,1,True
+569,4,,0,False
+570,9,sound_quality,1,True
+571,19,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+572,2,price_value,1,True
+573,-1,,0,False
+574,17,connectivity | price_value,2,True
+575,11,sound_quality | connectivity | audio_defects,3,True
+576,2,,0,False
+577,21,workout_stability | price_value | gift_purchases,3,True
+578,21,sound_quality | workout_stability | water_resistance,3,True
+579,9,sound_quality,1,True
+580,9,sound_quality | comfort_fit | battery | connectivity | price_value,5,True
+581,2,price_value,1,True
+582,7,sound_quality,1,True
+583,15,connectivity,1,True
+584,21,,0,False
+585,2,,0,False
+586,8,sound_quality | comfort_fit | workout_stability,3,True
+587,3,workout_stability | charging_durability | connectivity,3,True
+588,21,workout_stability | price_value,2,True
+589,-1,workout_stability,1,True
+590,4,charging_durability,1,True
+591,-1,,0,False
+592,4,charging_durability,1,True
+593,21,workout_stability,1,True
+594,2,,0,False
+595,18,workout_stability,1,True
+596,15,workout_stability | battery,2,True
+597,11,connectivity,1,True
+598,19,sound_quality | price_value,2,True
+599,18,battery | price_value,2,True
+600,21,sound_quality,1,True
+601,4,charging_durability,1,True
+602,9,,0,False
+603,-1,accessories,1,True
+604,9,sound_quality,1,True
+605,9,sound_quality | price_value,2,True
+606,-1,,0,False
+607,16,sound_quality,1,True
+608,6,sound_quality | noise_cancellation | price_value,3,True
+609,11,sound_quality | workout_stability | connectivity | audio_defects,4,True
+610,20,comfort_fit | connectivity | price_value,3,True
+611,-1,sound_quality | battery | price_value,3,True
+612,18,sound_quality | workout_stability | price_value,3,True
+613,3,connectivity,1,True
+614,18,comfort_fit,1,True
+615,4,,0,False
+616,-1,sound_quality | workout_stability | charging_durability | connectivity | water_resistance | price_value | design_build,7,True
+617,0,sound_quality | battery | connectivity | water_resistance | price_value,5,True
+618,15,battery | connectivity,2,True
+619,1,,0,False
+620,4,,0,False
+621,-1,sound_quality | comfort_fit | battery | connectivity | design_build,5,True
+622,15,battery,1,True
+623,4,,0,False
+624,-1,connectivity,1,True
+625,12,charging_durability,1,True
+626,-1,sound_quality | workout_stability | battery,3,True
+627,-1,audio_defects,1,True
+628,4,,0,False
+629,9,sound_quality,1,True
+630,13,sound_quality | workout_stability | battery | water_resistance,4,True
+631,4,,0,False
+632,-1,sound_quality | battery | charging_durability | connectivity | audio_defects,5,True
+633,19,,0,False
+634,9,,0,False
+635,4,battery,1,True
+636,11,workout_stability | connectivity,2,True
+637,12,connectivity,1,True
+638,15,,0,False
+639,-1,sound_quality | workout_stability | charging_durability,3,True
+640,9,sound_quality,1,True
+641,9,sound_quality | battery | charging_durability,3,True
+642,4,,0,False
+643,19,connectivity | price_value | repeat_purchases,3,True
+644,5,sound_quality | connectivity,2,True
+645,-1,sound_quality,1,True
+646,-1,sound_quality | comfort_fit | workout_stability | charging_durability | price_value,5,True
+647,4,,0,False
+648,12,,0,False
+649,13,sound_quality | workout_stability | battery | charging_durability | connectivity | water_resistance | price_value,7,True
+650,9,sound_quality | battery,2,True
+651,-1,workout_stability | battery,2,True
+652,20,sound_quality | comfort_fit | workout_stability | connectivity | price_value,5,True
+653,9,sound_quality,1,True
+654,-1,sound_quality | price_value,2,True
+655,10,charging_durability | water_resistance,2,True
+656,21,workout_stability | price_value,2,True
+657,9,sound_quality | comfort_fit,2,True
+658,2,,0,False
+659,19,price_value,1,True
+660,15,sound_quality | battery | charging_durability,3,True
+661,21,workout_stability,1,True
+662,-1,sound_quality | connectivity,2,True
+663,8,sound_quality | comfort_fit | workout_stability | price_value,4,True
+664,2,,0,False
+665,21,workout_stability,1,True
+666,11,connectivity,1,True
+667,2,price_value,1,True
+668,4,charging_durability,1,True
+669,14,charging_durability,1,True
+670,8,sound_quality | comfort_fit | workout_stability,3,True
+671,3,price_value,1,True
+672,19,,0,False
+673,-1,sound_quality | workout_stability | connectivity | price_value,4,True
+674,-1,sound_quality | charging_durability,2,True
+675,11,sound_quality | workout_stability | battery | charging_durability | connectivity | noise_cancellation | price_value | design_build | repeat_purchases,9,True
+676,-1,sound_quality | price_value,2,True
+677,-1,sound_quality | comfort_fit,2,True
+678,0,sound_quality | charging_durability,2,True
+679,18,workout_stability,1,True
+680,11,connectivity,1,True
+681,14,,0,False
+682,21,,0,False
+683,19,,0,False
+684,-1,workout_stability | battery | connectivity,3,True
+685,17,sound_quality | connectivity,2,True
+686,-1,price_value,1,True
+687,17,sound_quality | connectivity,2,True
+688,16,sound_quality | accessories,2,True
+689,14,sound_quality | charging_durability | connectivity | price_value,4,True
+690,18,sound_quality | comfort_fit | battery,3,True
+691,2,,0,False
+692,-1,design_build,1,True
+693,16,battery | charging_durability | connectivity | accessories,4,True
+694,4,charging_durability,1,True
+695,4,charging_durability,1,True
+696,9,sound_quality | workout_stability | price_value,3,True
+697,21,workout_stability,1,True
+698,21,sound_quality | workout_stability,2,True
+699,9,price_value,1,True
+700,1,gift_purchases,1,True
+701,8,comfort_fit,1,True
+702,-1,sound_quality | battery,2,True
+703,21,sound_quality,1,True
+704,9,sound_quality | price_value,2,True
+705,18,,0,False
+706,2,price_value,1,True
+707,21,workout_stability,1,True
+708,21,sound_quality | workout_stability | battery | connectivity | price_value,5,True
+709,18,design_build,1,True
+710,16,sound_quality | comfort_fit | battery | charging_durability | connectivity | price_value | accessories,7,True
+711,9,sound_quality,1,True
+712,-1,battery | charging_durability | connectivity | gift_purchases | repeat_purchases,5,True
+713,11,connectivity,1,True
+714,-1,battery,1,True
+715,7,sound_quality | workout_stability | battery | charging_durability | connectivity | noise_cancellation | price_value,7,True
+716,14,charging_durability,1,True
+717,12,connectivity,1,True
+718,14,charging_durability,1,True
+719,9,sound_quality | battery,2,True
+720,9,sound_quality | price_value,2,True
+721,21,,0,False
+722,2,repeat_purchases,1,True
+723,-1,sound_quality | accessories,2,True
+724,18,sound_quality | battery,2,True
+725,-1,sound_quality,1,True
+726,-1,sound_quality | connectivity | price_value,3,True
+727,-1,,0,False
+728,-1,connectivity,1,True
+729,19,sound_quality | price_value,2,True
+730,2,,0,False
+731,-1,,0,False
+732,15,sound_quality | connectivity,2,True
+733,20,design_build,1,True
+734,9,sound_quality,1,True
+735,14,sound_quality | workout_stability | battery | charging_durability | connectivity | noise_cancellation | water_resistance | price_value | accessories,9,True
+736,9,comfort_fit,1,True
+737,18,price_value,1,True
+738,21,workout_stability | battery,2,True
+739,17,comfort_fit | connectivity,2,True
+740,3,sound_quality | connectivity,2,True
+741,-1,sound_quality,1,True
+742,-1,sound_quality | workout_stability | battery | accessories,4,True
+743,4,charging_durability,1,True
+744,21,workout_stability | connectivity,2,True
+745,17,sound_quality | comfort_fit | connectivity,3,True
+746,4,charging_durability,1,True
+747,6,sound_quality,1,True
+748,9,sound_quality,1,True
+749,6,sound_quality | comfort_fit | design_build,3,True
+750,4,,0,False
+751,-1,comfort_fit | battery,2,True
+752,18,sound_quality | comfort_fit | battery,3,True
+753,3,sound_quality | connectivity,2,True
+754,-1,sound_quality | comfort_fit | battery | charging_durability | connectivity | price_value | accessories,7,True
+755,0,sound_quality | workout_stability | price_value,3,True
+756,8,comfort_fit,1,True
+757,19,sound_quality | comfort_fit | battery,3,True
+758,0,connectivity | price_value,2,True
+759,-1,sound_quality | workout_stability | connectivity,3,True
+760,21,workout_stability,1,True
+761,16,price_value | accessories,2,True
+762,14,,0,False
+763,19,battery | charging_durability | price_value,3,True
+764,14,sound_quality,1,True
+765,-1,battery,1,True
+766,-1,sound_quality | battery | connectivity,3,True
+767,21,sound_quality | workout_stability | charging_durability | connectivity | noise_cancellation,5,True
+768,2,,0,False
+769,14,sound_quality | comfort_fit | charging_durability | connectivity,4,True
+770,19,sound_quality | connectivity | price_value,3,True
+771,-1,sound_quality | connectivity,2,True
+772,-1,charging_durability,1,True
+773,9,sound_quality,1,True
+774,-1,workout_stability,1,True
+775,15,sound_quality,1,True
+776,21,sound_quality | workout_stability | battery,3,True
+777,9,sound_quality,1,True
+778,15,sound_quality,1,True
+779,16,sound_quality | connectivity | price_value | accessories,4,True
+780,19,,0,False
+781,18,comfort_fit,1,True
+782,0,workout_stability | charging_durability | connectivity,3,True
+783,3,connectivity,1,True
+784,18,price_value,1,True
+785,6,sound_quality,1,True
+786,19,,0,False
+787,-1,comfort_fit,1,True
+788,-1,sound_quality,1,True
+789,21,comfort_fit,1,True
+790,6,sound_quality | comfort_fit,2,True
+791,0,workout_stability,1,True
+792,14,charging_durability,1,True
+793,-1,sound_quality,1,True
+794,14,battery | charging_durability | connectivity,3,True
+795,19,price_value,1,True
+796,17,battery,1,True
+797,11,sound_quality,1,True
+798,0,comfort_fit | connectivity | price_value,3,True
+799,18,sound_quality | comfort_fit | price_value,3,True
+800,12,sound_quality,1,True
+801,-1,,0,False
+802,15,sound_quality | battery | charging_durability | connectivity | price_value,5,True
+803,15,comfort_fit | charging_durability | connectivity | audio_defects,4,True
+804,3,connectivity | price_value | repeat_purchases,3,True
+805,-1,,0,False
+806,9,sound_quality | connectivity,2,True
+807,-1,comfort_fit | workout_stability | price_value,3,True
+808,-1,battery | connectivity,2,True
+809,14,,0,False
+810,-1,sound_quality | workout_stability | connectivity | water_resistance,4,True
+811,2,repeat_purchases,1,True
+812,2,,0,False
+813,18,sound_quality | price_value,2,True
+814,15,sound_quality | noise_cancellation,2,True
+815,0,charging_durability | connectivity,2,True
+816,20,sound_quality | battery | charging_durability | price_value | design_build | accessories,6,True
+817,4,battery,1,True
+818,4,,0,False
+819,-1,sound_quality | connectivity,2,True
+820,2,price_value,1,True
+821,21,workout_stability,1,True
+822,3,connectivity | price_value | repeat_purchases,3,True
+823,18,sound_quality | water_resistance,2,True
+824,14,battery,1,True
+825,21,sound_quality | workout_stability,2,True
+826,21,workout_stability | price_value,2,True
+827,10,water_resistance,1,True
+828,-1,connectivity,1,True
+829,-1,sound_quality | workout_stability | battery | charging_durability | price_value,5,True
+830,0,charging_durability | connectivity,2,True
+831,4,,0,False
+832,17,connectivity,1,True
+833,-1,sound_quality | noise_cancellation | accessories,3,True
+834,18,workout_stability | price_value,2,True
+835,18,comfort_fit | audio_defects | design_build,3,True
+836,12,sound_quality | workout_stability,2,True
+837,18,,0,False
+838,20,workout_stability | price_value,2,True
+839,12,sound_quality,1,True
+840,18,sound_quality | battery,2,True
+841,4,charging_durability,1,True
+842,20,comfort_fit | price_value,2,True
+843,-1,accessories,1,True
+844,17,sound_quality | comfort_fit | battery | connectivity,4,True
+845,9,sound_quality | battery | price_value | accessories,4,True
+846,-1,workout_stability | connectivity,2,True
+847,-1,comfort_fit,1,True
+848,16,,0,False
+849,6,sound_quality | noise_cancellation,2,True
+850,-1,connectivity,1,True
+851,7,sound_quality | noise_cancellation,2,True
+852,18,price_value,1,True
+853,2,,0,False
+854,21,comfort_fit | workout_stability | water_resistance | price_value,4,True
+855,15,sound_quality | comfort_fit | battery,3,True
+856,9,sound_quality | price_value,2,True
+857,-1,sound_quality | workout_stability,2,True
+858,-1,sound_quality | price_value,2,True
+859,9,sound_quality | price_value,2,True
+860,21,sound_quality | comfort_fit | workout_stability | connectivity | price_value,5,True
+861,-1,comfort_fit | connectivity | price_value,3,True
+862,3,connectivity,1,True
+863,10,water_resistance | accessories,2,True
+864,15,sound_quality | accessories,2,True
+865,14,charging_durability | connectivity,2,True
+866,21,,0,False
+867,2,,0,False
+868,18,comfort_fit,1,True
+869,-1,,0,False
+870,-1,battery,1,True
+871,19,price_value,1,True
+872,-1,,0,False
+873,14,charging_durability,1,True
+874,0,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+875,9,connectivity,1,True
+876,9,sound_quality | comfort_fit | connectivity,3,True
+877,-1,,0,False
+878,-1,sound_quality | workout_stability | battery | price_value | design_build,5,True
+879,11,sound_quality,1,True
+880,18,,0,False
+881,21,sound_quality | workout_stability | price_value,3,True
+882,-1,charging_durability | connectivity,2,True
+883,8,comfort_fit,1,True
+884,15,sound_quality | comfort_fit | battery | gift_purchases,4,True
+885,0,connectivity | price_value | repeat_purchases,3,True
+886,11,connectivity,1,True
+887,18,sound_quality,1,True
+888,-1,sound_quality | comfort_fit | connectivity | accessories,4,True
+889,21,workout_stability,1,True
+890,21,sound_quality | comfort_fit | workout_stability | connectivity | noise_cancellation | price_value,6,True
+891,11,sound_quality | connectivity | price_value,3,True
+892,-1,,0,False
+893,19,sound_quality | comfort_fit | price_value,3,True
+894,21,workout_stability,1,True
+895,4,,0,False
+896,2,price_value,1,True
+897,-1,,0,False
+898,13,workout_stability | battery,2,True
+899,-1,,0,False
+900,15,battery | charging_durability,2,True
+901,3,connectivity,1,True
+902,-1,sound_quality | connectivity,2,True
+903,9,sound_quality,1,True
+904,6,sound_quality | comfort_fit,2,True
+905,1,,0,False
+906,-1,,0,False
+907,12,,0,False
+908,-1,sound_quality | connectivity | accessories,3,True
+909,2,price_value,1,True
+910,21,workout_stability,1,True
+911,19,price_value,1,True
+912,-1,,0,False
+913,21,workout_stability | price_value,2,True
+914,21,workout_stability,1,True
+915,-1,sound_quality | battery | connectivity | price_value,4,True
+916,-1,sound_quality | accessories,2,True
+917,9,sound_quality,1,True
+918,9,sound_quality,1,True
+919,9,comfort_fit,1,True
+920,19,sound_quality | charging_durability | connectivity,3,True
+921,15,sound_quality | battery | connectivity,3,True
+922,9,,0,False
+923,-1,sound_quality | connectivity | price_value,3,True
+924,-1,sound_quality | comfort_fit,2,True
+925,1,,0,False
+926,5,accessories,1,True
+927,-1,battery,1,True
+928,-1,charging_durability,1,True
+929,9,sound_quality | accessories,2,True
+930,2,price_value,1,True
+931,-1,,0,False
+932,12,charging_durability,1,True
+933,-1,sound_quality | charging_durability,2,True
+934,9,sound_quality | comfort_fit,2,True
+935,1,gift_purchases,1,True
+936,4,charging_durability,1,True
+937,10,charging_durability | water_resistance,2,True
+938,2,accessories,1,True
+939,-1,sound_quality | comfort_fit,2,True
+940,-1,sound_quality | workout_stability | battery | water_resistance | price_value,5,True
+941,-1,sound_quality,1,True
+942,-1,connectivity | price_value,2,True
+943,16,accessories,1,True
+944,15,sound_quality | battery,2,True
+945,19,sound_quality | comfort_fit,2,True
+946,4,charging_durability,1,True
+947,10,charging_durability | water_resistance,2,True
+948,3,battery | charging_durability | connectivity | price_value | repeat_purchases,5,True
+949,11,connectivity,1,True
+950,9,sound_quality,1,True
+951,17,sound_quality | connectivity,2,True
+952,20,,0,False
+953,9,sound_quality | comfort_fit | noise_cancellation,3,True
+954,20,price_value,1,True
+955,-1,sound_quality | connectivity | price_value,3,True
+956,10,water_resistance,1,True
+957,18,workout_stability,1,True
+958,21,workout_stability,1,True
+959,15,workout_stability | battery | charging_durability | price_value,4,True
+960,21,sound_quality | charging_durability | connectivity,3,True
+961,14,sound_quality | charging_durability | connectivity,3,True
+962,10,noise_cancellation | price_value,2,True
+963,-1,sound_quality,1,True
+964,9,sound_quality,1,True
+965,9,,0,False
+966,9,sound_quality | noise_cancellation,2,True
+967,-1,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+968,4,connectivity | price_value | repeat_purchases,3,True
+969,20,sound_quality | comfort_fit | price_value,3,True
+970,5,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+971,2,,0,False
+972,14,battery | charging_durability | connectivity,3,True
+973,4,charging_durability,1,True
+974,2,,0,False
+975,17,sound_quality | comfort_fit,2,True
+976,-1,,0,False
+977,21,,0,False
+978,-1,sound_quality | noise_cancellation | price_value,3,True
+979,5,accessories,1,True
+980,2,,0,False
+981,-1,sound_quality | comfort_fit | connectivity,3,True
+982,21,workout_stability | price_value,2,True
+983,4,,0,False
+984,12,sound_quality | battery | charging_durability | connectivity | price_value | repeat_purchases,6,True
+985,18,sound_quality | price_value,2,True
+986,19,sound_quality,1,True
+987,21,connectivity,1,True
+988,20,sound_quality | workout_stability | charging_durability | price_value,4,True
+989,4,,0,False
+990,21,workout_stability,1,True
+991,3,connectivity | price_value | repeat_purchases,3,True
+992,-1,sound_quality | workout_stability | connectivity | price_value,4,True
+993,9,sound_quality,1,True
+994,21,sound_quality | workout_stability,2,True
+995,19,sound_quality | battery,2,True
+996,-1,,0,False
+997,21,,0,False
+998,18,,0,False
+999,8,sound_quality | comfort_fit,2,True
+1000,11,connectivity | audio_defects | price_value,3,True
+1001,-1,,0,False
+1002,4,gift_purchases,1,True
+1003,19,price_value,1,True
+1004,18,price_value,1,True
+1005,-1,,0,False
+1006,9,sound_quality,1,True
+1007,11,sound_quality | connectivity,2,True
+1008,18,,0,False
+1009,18,noise_cancellation | price_value,2,True
+1010,1,,0,False
+1011,-1,sound_quality | noise_cancellation | price_value,3,True
+1012,18,sound_quality,1,True
+1013,9,sound_quality | noise_cancellation,2,True
+1014,8,comfort_fit,1,True
+1015,-1,sound_quality | comfort_fit,2,True
+1016,19,price_value,1,True
+1017,4,,0,False
+1018,20,sound_quality | connectivity,2,True
+1019,14,charging_durability | connectivity,2,True
+1020,21,,0,False
+1021,-1,sound_quality,1,True
+1022,13,sound_quality | battery | water_resistance,3,True
+1023,14,workout_stability | connectivity | price_value,3,True
+1024,2,,0,False
+1025,9,sound_quality | connectivity,2,True
+1026,4,charging_durability,1,True
+1027,3,connectivity | repeat_purchases,2,True
+1028,15,price_value,1,True
+1029,3,charging_durability | connectivity | repeat_purchases,3,True
+1030,21,,0,False
+1031,5,sound_quality | connectivity,2,True
+1032,7,connectivity | noise_cancellation,2,True
+1033,1,,0,False
+1034,-1,sound_quality,1,True
+1035,9,price_value,1,True
+1036,19,sound_quality | connectivity | price_value | repeat_purchases,4,True
+1037,14,gift_purchases,1,True
+1038,-1,,0,False
+1039,21,workout_stability | charging_durability | price_value,3,True
+1040,16,sound_quality | comfort_fit | workout_stability | connectivity | accessories | gift_purchases,6,True
+1041,-1,sound_quality | workout_stability | charging_durability | connectivity,4,True
+1042,-1,comfort_fit,1,True
+1043,17,connectivity,1,True
+1044,11,connectivity,1,True
+1045,3,sound_quality | connectivity | price_value | repeat_purchases,4,True
+1046,7,battery | noise_cancellation,2,True
+1047,21,,0,False
+1048,15,sound_quality | connectivity,2,True
+1049,2,,0,False
+1050,9,sound_quality | battery,2,True
+1051,9,sound_quality | battery,2,True
+1052,21,sound_quality | workout_stability,2,True
+1053,14,,0,False
+1054,4,charging_durability,1,True
+1055,4,charging_durability,1,True
+1056,3,charging_durability | connectivity | gift_purchases | repeat_purchases,4,True
+1057,21,sound_quality | comfort_fit | workout_stability | audio_defects,4,True
+1058,19,sound_quality,1,True
+1059,4,charging_durability,1,True
+1060,19,price_value,1,True
+1061,1,,0,False
+1062,11,sound_quality | connectivity,2,True
+1063,7,noise_cancellation,1,True
+1064,12,,0,False
+1065,9,workout_stability | battery,2,True
+1066,13,workout_stability,1,True
+1067,-1,sound_quality | workout_stability,2,True
+1068,12,audio_defects,1,True
+1069,21,sound_quality | comfort_fit | workout_stability | battery | connectivity | noise_cancellation,6,True
+1070,21,,0,False
+1071,18,comfort_fit,1,True
+1072,10,water_resistance,1,True
+1073,-1,,0,False
+1074,9,sound_quality,1,True
+1075,9,,0,False
+1076,4,,0,False
+1077,7,sound_quality | comfort_fit | battery | noise_cancellation | price_value,5,True
+1078,21,comfort_fit | workout_stability | price_value,3,True
+1079,5,sound_quality,1,True
+1080,-1,sound_quality | charging_durability | connectivity | noise_cancellation | audio_defects,5,True
+1081,21,sound_quality | price_value,2,True
+1082,-1,sound_quality | battery | accessories,3,True
+1083,12,audio_defects,1,True
+1084,9,sound_quality | price_value | accessories | repeat_purchases,4,True
+1085,-1,sound_quality | workout_stability | battery | price_value,4,True
+1086,9,sound_quality,1,True
+1087,9,sound_quality,1,True
+1088,13,workout_stability,1,True
+1089,6,sound_quality,1,True
+1090,18,sound_quality | workout_stability,2,True
+1091,21,sound_quality | workout_stability | noise_cancellation,3,True
+1092,8,comfort_fit,1,True
+1093,-1,sound_quality,1,True
+1094,-1,,0,False
+1095,19,sound_quality | connectivity | price_value,3,True
+1096,4,,0,False
+1097,-1,charging_durability | audio_defects | price_value,3,True
+1098,11,connectivity,1,True
+1099,-1,,0,False
+1100,14,,0,False
+1101,4,battery,1,True
+1102,0,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+1103,6,sound_quality | charging_durability | price_value,3,True
+1104,18,,0,False
+1105,14,,0,False
+1106,18,sound_quality,1,True
+1107,14,battery,1,True
+1108,-1,workout_stability | battery | charging_durability,3,True
+1109,-1,sound_quality,1,True
+1110,9,sound_quality | battery,2,True
+1111,21,workout_stability,1,True
+1112,18,sound_quality | comfort_fit | noise_cancellation,3,True
+1113,9,sound_quality | comfort_fit | workout_stability | connectivity | design_build | accessories,6,True
+1114,9,workout_stability | battery | charging_durability | connectivity | repeat_purchases,5,True
+1115,1,,0,False
+1116,14,charging_durability | connectivity | repeat_purchases,3,True
+1117,1,gift_purchases,1,True
+1118,0,sound_quality | connectivity,2,True
+1119,14,sound_quality | battery | charging_durability,3,True
+1120,1,,0,False
+1121,-1,comfort_fit | workout_stability | battery | charging_durability | connectivity,5,True
+1122,18,,0,False
+1123,-1,sound_quality | workout_stability | battery | price_value,4,True
+1124,3,comfort_fit | connectivity | repeat_purchases,3,True
+1125,18,price_value,1,True
+1126,14,charging_durability,1,True
+1127,9,sound_quality | charging_durability,2,True
+1128,-1,sound_quality | charging_durability | connectivity,3,True
+1129,21,workout_stability | price_value,2,True
+1130,-1,sound_quality | price_value,2,True
+1131,5,sound_quality | connectivity | price_value,3,True
+1132,9,sound_quality | noise_cancellation | accessories,3,True
+1133,4,,0,False
+1134,-1,price_value,1,True
+1135,2,price_value | repeat_purchases,2,True
+1136,-1,sound_quality | charging_durability | connectivity,3,True
+1137,-1,sound_quality | comfort_fit | workout_stability | noise_cancellation | price_value,5,True
+1138,5,sound_quality,1,True
+1139,-1,sound_quality | comfort_fit | connectivity | noise_cancellation | price_value,5,True
+1140,18,comfort_fit,1,True
+1141,13,sound_quality | workout_stability,2,True
+1142,9,sound_quality | workout_stability | water_resistance,3,True
+1143,4,charging_durability,1,True
+1144,9,sound_quality,1,True
+1145,-1,workout_stability,1,True
+1146,20,comfort_fit | workout_stability | price_value,3,True
+1147,9,sound_quality | charging_durability,2,True
+1148,18,,0,False
+1149,21,sound_quality | battery | charging_durability | connectivity,4,True
+1150,-1,charging_durability | connectivity | design_build,3,True
+1151,-1,connectivity | design_build,2,True
+1152,15,battery | charging_durability | connectivity | noise_cancellation | price_value | repeat_purchases,6,True
+1153,9,sound_quality | price_value,2,True
+1154,-1,accessories,1,True
+1155,9,battery | noise_cancellation,2,True
+1156,21,workout_stability | charging_durability,2,True
+1157,15,sound_quality | connectivity | price_value,3,True
+1158,4,charging_durability,1,True
+1159,-1,sound_quality | workout_stability | charging_durability | connectivity | price_value | accessories,6,True
+1160,21,design_build,1,True
+1161,19,,0,False
+1162,18,,0,False
+1163,-1,battery | charging_durability | connectivity,3,True
+1164,-1,sound_quality,1,True
+1165,4,,0,False
+1166,5,battery | connectivity,2,True
+1167,4,charging_durability,1,True
+1168,5,sound_quality | comfort_fit,2,True
+1169,18,,0,False
+1170,21,workout_stability | charging_durability,2,True
+1171,17,sound_quality | connectivity,2,True
+1172,-1,comfort_fit,1,True
+1173,9,sound_quality,1,True
+1174,14,charging_durability | price_value,2,True
+1175,19,sound_quality,1,True
+1176,-1,price_value,1,True
+1177,-1,connectivity | repeat_purchases,2,True
+1178,9,sound_quality | price_value | gift_purchases,3,True
+1179,4,,0,False
+1180,1,,0,False
+1181,9,sound_quality | water_resistance,2,True
+1182,5,sound_quality | connectivity,2,True
+1183,18,design_build,1,True
+1184,9,sound_quality | price_value,2,True
+1185,9,sound_quality | price_value,2,True
+1186,15,accessories,1,True
+1187,0,,0,False
+1188,14,battery | charging_durability,2,True
+1189,19,,0,False
+1190,2,price_value | accessories,2,True
+1191,9,sound_quality | price_value,2,True
+1192,16,,0,False
+1193,-1,sound_quality | battery,2,True
+1194,18,sound_quality | water_resistance,2,True
+1195,2,,0,False
+1196,9,sound_quality,1,True
+1197,14,charging_durability,1,True
+1198,15,workout_stability | connectivity,2,True
+1199,20,,0,False
+1200,21,workout_stability | connectivity,2,True
+1201,-1,,0,False
+1202,13,workout_stability | battery | noise_cancellation | price_value,4,True
+1203,-1,workout_stability | price_value,2,True
+1204,2,,0,False
+1205,8,sound_quality | comfort_fit | workout_stability,3,True
+1206,21,workout_stability,1,True
+1207,6,sound_quality,1,True
+1208,18,sound_quality | noise_cancellation,2,True
+1209,19,sound_quality | battery | connectivity,3,True
+1210,20,sound_quality | price_value,2,True
+1211,18,price_value | accessories,2,True
+1212,3,connectivity | noise_cancellation | price_value | repeat_purchases,4,True
+1213,9,battery | charging_durability,2,True
+1214,9,sound_quality | battery | price_value,3,True
+1215,-1,sound_quality | connectivity | audio_defects | price_value | repeat_purchases,5,True
+1216,18,workout_stability,1,True
+1217,4,battery,1,True
+1218,-1,sound_quality | comfort_fit | workout_stability,3,True
+1219,13,price_value,1,True
+1220,11,sound_quality | connectivity | price_value | accessories,4,True
+1221,-1,connectivity | repeat_purchases,2,True
+1222,17,sound_quality | battery | connectivity,3,True
+1223,-1,,0,False
+1224,0,charging_durability | connectivity | repeat_purchases,3,True
+1225,21,sound_quality | comfort_fit,2,True
+1226,21,workout_stability,1,True
+1227,12,sound_quality | audio_defects,2,True
+1228,-1,charging_durability,1,True
+1229,1,gift_purchases,1,True
+1230,-1,,0,False
+1231,9,sound_quality | price_value,2,True
+1232,9,sound_quality | battery,2,True
+1233,3,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+1234,1,,0,False
+1235,4,,0,False
+1236,9,sound_quality,1,True
+1237,11,connectivity,1,True
+1238,21,sound_quality | charging_durability | connectivity | accessories,4,True
+1239,19,,0,False
+1240,-1,sound_quality | comfort_fit,2,True
+1241,9,sound_quality,1,True
+1242,-1,sound_quality | battery | price_value,3,True
+1243,7,comfort_fit | noise_cancellation,2,True
+1244,-1,sound_quality | battery | audio_defects | gift_purchases,4,True
+1245,-1,,0,False
+1246,11,price_value,1,True
+1247,0,,0,False
+1248,11,workout_stability | connectivity,2,True
+1249,5,sound_quality | comfort_fit | price_value,3,True
+1250,3,connectivity,1,True
+1251,11,sound_quality | connectivity,2,True
+1252,14,charging_durability | connectivity,2,True
+1253,-1,sound_quality,1,True
+1254,-1,charging_durability | connectivity,2,True
+1255,13,workout_stability | charging_durability | connectivity | water_resistance | price_value | repeat_purchases,6,True
+1256,18,sound_quality,1,True
+1257,2,,0,False
+1258,-1,connectivity,1,True
+1259,21,sound_quality | comfort_fit | workout_stability | connectivity,4,True
+1260,2,,0,False
+1261,14,,0,False
+1262,21,sound_quality | battery,2,True
+1263,15,comfort_fit | connectivity | price_value,3,True
+1264,21,workout_stability,1,True
+1265,21,connectivity,1,True
+1266,1,,0,False
+1267,5,sound_quality | comfort_fit | workout_stability,3,True
+1268,18,sound_quality,1,True
+1269,18,,0,False
+1270,-1,,0,False
+1271,16,sound_quality | comfort_fit | battery | connectivity,4,True
+1272,4,charging_durability,1,True
+1273,19,,0,False
+1274,14,charging_durability | connectivity,2,True
+1275,17,sound_quality | battery | connectivity | price_value | accessories | gift_purchases | repeat_purchases,7,True
+1276,0,comfort_fit | charging_durability | connectivity | price_value | design_build,5,True
+1277,12,charging_durability,1,True
+1278,9,sound_quality,1,True
+1279,15,sound_quality | workout_stability | charging_durability | price_value,4,True
+1280,21,workout_stability,1,True
+1281,21,sound_quality | workout_stability,2,True
+1282,9,sound_quality,1,True
+1283,20,sound_quality | battery | connectivity | noise_cancellation,4,True
+1284,9,sound_quality | price_value,2,True
+1285,20,battery | connectivity,2,True
+1286,17,workout_stability | connectivity,2,True
+1287,4,,0,False
+1288,9,sound_quality,1,True
+1289,4,charging_durability,1,True
+1290,19,price_value | repeat_purchases,2,True
+1291,9,sound_quality | comfort_fit | price_value,3,True
+1292,14,connectivity | repeat_purchases,2,True
+1293,14,connectivity,1,True
+1294,19,sound_quality | gift_purchases,2,True
+1295,21,workout_stability | connectivity | price_value,3,True
+1296,0,sound_quality,1,True
+1297,16,,0,False
+1298,15,sound_quality | battery,2,True
+1299,21,sound_quality | battery | connectivity | price_value,4,True
+1300,21,workout_stability | price_value,2,True
+1301,7,,0,False
+1302,-1,,0,False
+1303,15,connectivity | price_value,2,True
+1304,0,sound_quality | battery,2,True
+1305,4,gift_purchases,1,True
+1306,2,,0,False
+1307,15,charging_durability,1,True
+1308,17,sound_quality | connectivity,2,True
+1309,4,,0,False
+1310,21,sound_quality | workout_stability | connectivity | price_value,4,True
+1311,9,sound_quality | comfort_fit | connectivity,3,True
+1312,3,connectivity | repeat_purchases,2,True
+1313,6,sound_quality | connectivity | price_value | accessories,4,True
+1314,14,charging_durability | connectivity,2,True
+1315,-1,price_value,1,True
+1316,19,battery | charging_durability,2,True
+1317,21,,0,False
+1318,9,sound_quality | battery,2,True
+1319,5,,0,False
+1320,0,sound_quality | connectivity,2,True
+1321,18,,0,False
+1322,6,sound_quality | price_value,2,True
+1323,16,sound_quality | noise_cancellation,2,True
+1324,-1,sound_quality,1,True
+1325,21,workout_stability,1,True
+1326,-1,sound_quality | workout_stability,2,True
+1327,-1,sound_quality | workout_stability | battery | charging_durability | connectivity | price_value,6,True
+1328,21,sound_quality | comfort_fit | workout_stability | battery | charging_durability,5,True
+1329,9,sound_quality,1,True
+1330,2,price_value | accessories,2,True
+1331,6,sound_quality | gift_purchases,2,True
+1332,4,charging_durability,1,True
+1333,5,sound_quality | accessories,2,True
+1334,4,charging_durability,1,True
+1335,4,charging_durability,1,True
+1336,19,,0,False
+1337,2,price_value,1,True
+1338,19,charging_durability | connectivity,2,True
+1339,16,,0,False
+1340,0,sound_quality | price_value,2,True
+1341,21,sound_quality | battery | noise_cancellation,3,True
+1342,6,sound_quality,1,True
+1343,18,,0,False
+1344,-1,battery | charging_durability | connectivity,3,True
+1345,-1,,0,False
+1346,18,,0,False
+1347,-1,sound_quality | comfort_fit | battery | price_value,4,True
+1348,21,sound_quality | comfort_fit | workout_stability | battery,4,True
+1349,9,sound_quality | comfort_fit | connectivity,3,True
+1350,19,sound_quality | connectivity | noise_cancellation | price_value,4,True
+1351,13,sound_quality | workout_stability | charging_durability | water_resistance | price_value,5,True
+1352,-1,connectivity,1,True
+1353,4,charging_durability,1,True
+1354,9,,0,False
+1355,18,,0,False
+1356,-1,,0,False
+1357,-1,sound_quality,1,True
+1358,3,connectivity,1,True
+1359,1,,0,False
+1360,9,sound_quality,1,True
+1361,9,sound_quality | comfort_fit | price_value,3,True
+1362,-1,sound_quality | charging_durability | connectivity,3,True
+1363,17,comfort_fit | connectivity | price_value | design_build,4,True
+1364,9,sound_quality,1,True
+1365,-1,sound_quality | workout_stability | connectivity | price_value,4,True
+1366,12,sound_quality | charging_durability,2,True
+1367,9,sound_quality | connectivity,2,True
+1368,4,battery,1,True
+1369,15,workout_stability | battery | charging_durability,3,True
+1370,10,water_resistance,1,True
+1371,21,,0,False
+1372,21,sound_quality,1,True
+1373,19,sound_quality,1,True
+1374,20,sound_quality | workout_stability | charging_durability | connectivity,4,True
+1375,-1,,0,False
+1376,21,comfort_fit,1,True
+1377,19,sound_quality | comfort_fit | price_value,3,True
+1378,-1,sound_quality | accessories | gift_purchases,3,True
+1379,2,price_value,1,True
+1380,-1,sound_quality | charging_durability | price_value | accessories,4,True
+1381,-1,charging_durability,1,True
+1382,-1,comfort_fit | connectivity,2,True
+1383,0,sound_quality | workout_stability | connectivity,3,True
+1384,-1,workout_stability | battery,2,True
+1385,18,sound_quality,1,True
+1386,19,sound_quality | battery | noise_cancellation | price_value,4,True
+1387,21,sound_quality | workout_stability | connectivity | noise_cancellation | repeat_purchases,5,True
+1388,0,workout_stability | price_value,2,True
+1389,7,noise_cancellation,1,True
+1390,-1,,0,False
+1391,16,sound_quality | connectivity,2,True
+1392,4,connectivity,1,True
+1393,15,sound_quality | workout_stability | charging_durability,3,True
+1394,-1,sound_quality | workout_stability | connectivity | accessories,4,True
+1395,-1,sound_quality | workout_stability | battery | charging_durability | connectivity | water_resistance | price_value,7,True
+1396,9,sound_quality,1,True
+1397,2,price_value,1,True
+1398,13,comfort_fit | workout_stability | battery | charging_durability | price_value,5,True
+1399,19,sound_quality | noise_cancellation | accessories,3,True
+1400,18,comfort_fit,1,True
+1401,3,connectivity,1,True
+1402,3,connectivity,1,True
+1403,17,connectivity | repeat_purchases,2,True
+1404,19,price_value,1,True
+1405,21,workout_stability,1,True
+1406,0,,0,False
+1407,21,sound_quality | comfort_fit | workout_stability | connectivity | price_value,5,True
+1408,-1,workout_stability | connectivity | price_value | gift_purchases,4,True
+1409,7,,0,False
+1410,19,,0,False
+1411,-1,,0,False
+1412,21,workout_stability,1,True
+1413,-1,,0,False
+1414,5,,0,False
+1415,20,sound_quality,1,True
+1416,9,sound_quality | battery | accessories,3,True
+1417,18,sound_quality | connectivity | repeat_purchases,3,True
+1418,1,,0,False
+1419,0,price_value,1,True
+1420,-1,gift_purchases,1,True
+1421,-1,battery,1,True
+1422,5,sound_quality | connectivity,2,True
+1423,18,sound_quality | comfort_fit | charging_durability | connectivity,4,True
+1424,9,sound_quality | price_value,2,True
+1425,4,charging_durability,1,True
+1426,3,connectivity | price_value,2,True
+1427,4,water_resistance,1,True
+1428,2,,0,False
+1429,9,,0,False
+1430,18,sound_quality,1,True
+1431,6,sound_quality | price_value,2,True
+1432,-1,workout_stability | charging_durability | audio_defects,3,True
+1433,15,battery | connectivity | design_build,3,True
+1434,-1,,0,False
+1435,18,comfort_fit | workout_stability,2,True
+1436,-1,sound_quality | comfort_fit,2,True
+1437,14,,0,False
+1438,14,charging_durability | connectivity | price_value,3,True
+1439,0,workout_stability | connectivity,2,True
+1440,20,,0,False
+1441,9,workout_stability | connectivity | repeat_purchases,3,True
+1442,18,sound_quality,1,True
+1443,20,sound_quality | battery | connectivity,3,True
+1444,18,,0,False
+1445,18,sound_quality,1,True
+1446,16,,0,False
+1447,8,comfort_fit,1,True
+1448,18,,0,False
+1449,-1,sound_quality | charging_durability | price_value | design_build,4,True
+1450,14,accessories,1,True
+1451,-1,sound_quality | price_value,2,True
+1452,13,battery | water_resistance,2,True
+1453,1,,0,False
+1454,2,,0,False
+1455,21,sound_quality | workout_stability,2,True
+1456,19,price_value,1,True
+1457,10,water_resistance,1,True
+1458,9,sound_quality | battery | connectivity | price_value,4,True
+1459,21,sound_quality | workout_stability | price_value,3,True
+1460,17,connectivity,1,True
+1461,9,sound_quality,1,True
+1462,-1,battery,1,True
+1463,9,sound_quality | battery,2,True
+1464,0,sound_quality,1,True
+1465,21,sound_quality | workout_stability,2,True
+1466,21,sound_quality | workout_stability,2,True
+1467,10,sound_quality | comfort_fit | water_resistance | price_value,4,True
+1468,-1,comfort_fit | connectivity | accessories,3,True
+1469,21,workout_stability | water_resistance | price_value,3,True
+1470,-1,,0,False
+1471,13,workout_stability | battery | charging_durability,3,True
+1472,15,charging_durability,1,True
+1473,9,sound_quality,1,True
+1474,21,sound_quality | connectivity,2,True
+1475,-1,comfort_fit,1,True
+1476,0,charging_durability | connectivity | repeat_purchases,3,True
+1477,15,sound_quality | connectivity,2,True
+1478,9,sound_quality | charging_durability,2,True
+1479,21,workout_stability,1,True
+1480,9,sound_quality | comfort_fit | charging_durability,3,True
+1481,21,workout_stability | connectivity | repeat_purchases,3,True
+1482,15,workout_stability | charging_durability | connectivity | audio_defects | repeat_purchases,5,True
+1483,-1,sound_quality | battery | charging_durability | connectivity | price_value | design_build | repeat_purchases,7,True
+1484,9,sound_quality | battery | price_value,3,True
+1485,-1,charging_durability | accessories,2,True
+1486,9,sound_quality | workout_stability | price_value,3,True
+1487,4,battery,1,True
+1488,-1,sound_quality | battery,2,True
+1489,2,price_value,1,True
+1490,-1,sound_quality | charging_durability | connectivity | price_value,4,True
+1491,18,sound_quality,1,True
+1492,10,sound_quality | repeat_purchases,2,True
+1493,17,connectivity,1,True
+1494,0,sound_quality | price_value,2,True
+1495,-1,workout_stability,1,True
+1496,2,price_value,1,True
+1497,-1,workout_stability | audio_defects,2,True
+1498,14,,0,False
+1499,8,comfort_fit,1,True
+1500,0,sound_quality | charging_durability | price_value | repeat_purchases,4,True
+1501,-1,sound_quality | workout_stability | battery,3,True
+1502,19,,0,False
+1503,9,sound_quality,1,True
+1504,21,,0,False
+1505,9,sound_quality,1,True
+1506,14,sound_quality | charging_durability | connectivity,3,True
+1507,14,,0,False
+1508,18,comfort_fit | charging_durability | connectivity | design_build,4,True
+1509,2,price_value,1,True
+1510,-1,sound_quality | workout_stability | battery,3,True
+1511,4,,0,False
+1512,18,sound_quality | comfort_fit,2,True
+1513,21,workout_stability,1,True
+1514,-1,sound_quality | workout_stability | connectivity,3,True
+1515,18,sound_quality | comfort_fit | workout_stability,3,True
+1516,-1,sound_quality | battery | charging_durability | connectivity | design_build | accessories,6,True
+1517,9,sound_quality | price_value,2,True
+1518,10,,0,False
+1519,-1,battery,1,True
+1520,17,sound_quality | connectivity | repeat_purchases,3,True
+1521,-1,sound_quality,1,True
+1522,19,sound_quality | price_value,2,True
+1523,-1,sound_quality | workout_stability | charging_durability | audio_defects | price_value,5,True
+1524,9,sound_quality | battery,2,True
+1525,15,price_value,1,True
+1526,-1,sound_quality | connectivity,2,True
+1527,-1,connectivity | price_value,2,True
+1528,8,comfort_fit,1,True
+1529,-1,,0,False
+1530,21,,0,False
+1531,5,connectivity,1,True
+1532,15,connectivity,1,True
+1533,-1,sound_quality,1,True
+1534,7,,0,False
+1535,18,design_build,1,True
+1536,14,charging_durability,1,True
+1537,11,connectivity,1,True
+1538,21,workout_stability,1,True
+1539,-1,design_build,1,True
+1540,14,connectivity,1,True
+1541,-1,,0,False
+1542,16,,0,False
+1543,10,sound_quality | water_resistance,2,True
+1544,21,workout_stability,1,True
+1545,2,price_value,1,True
+1546,9,sound_quality | workout_stability,2,True
+1547,3,design_build | gift_purchases,2,True
+1548,18,,0,False
+1549,4,gift_purchases,1,True
+1550,21,sound_quality | comfort_fit | connectivity,3,True
+1551,18,,0,False
+1552,9,sound_quality | battery,2,True
+1553,21,workout_stability,1,True
+1554,-1,workout_stability,1,True
+1555,0,connectivity,1,True
+1556,-1,audio_defects | accessories,2,True
+1557,9,sound_quality | comfort_fit | noise_cancellation,3,True
+1558,4,charging_durability,1,True
+1559,14,,0,False
+1560,1,,0,False
+1561,9,sound_quality | price_value,2,True
+1562,18,design_build,1,True
+1563,20,sound_quality,1,True
+1564,17,sound_quality | workout_stability | connectivity,3,True
+1565,16,sound_quality | connectivity | accessories | repeat_purchases,4,True
+1566,2,,0,False
+1567,16,sound_quality | accessories,2,True
+1568,-1,,0,False
+1569,14,charging_durability,1,True
+1570,19,,0,False
+1571,9,sound_quality | connectivity,2,True
+1572,-1,,0,False
+1573,14,charging_durability,1,True
+1574,9,accessories,1,True
+1575,14,charging_durability | connectivity,2,True
+1576,18,,0,False
+1577,2,,0,False
+1578,13,comfort_fit | water_resistance,2,True
+1579,2,price_value,1,True
+1580,4,,0,False
+1581,2,,0,False
+1582,14,sound_quality | comfort_fit | battery | connectivity,4,True
+1583,20,sound_quality | battery,2,True
+1584,0,sound_quality | noise_cancellation,2,True
+1585,-1,,0,False
+1586,15,comfort_fit | battery | connectivity,3,True
+1587,4,price_value,1,True
+1588,18,sound_quality,1,True
+1589,15,sound_quality | workout_stability | battery,3,True
+1590,-1,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+1591,18,,0,False
+1592,3,connectivity,1,True
+1593,18,,0,False
+1594,-1,workout_stability | battery,2,True
+1595,-1,sound_quality | battery | connectivity,3,True
+1596,9,sound_quality | charging_durability,2,True
+1597,2,price_value,1,True
+1598,2,price_value,1,True
+1599,4,charging_durability | water_resistance,2,True
+1600,12,charging_durability | price_value,2,True
+1601,9,sound_quality | workout_stability | price_value | accessories,4,True
+1602,15,price_value,1,True
+1603,1,,0,False
+1604,2,price_value,1,True
+1605,-1,sound_quality | charging_durability | connectivity | price_value | accessories,5,True
+1606,10,noise_cancellation | water_resistance | price_value,3,True
+1607,2,,0,False
+1608,-1,sound_quality | comfort_fit,2,True
+1609,-1,sound_quality | connectivity,2,True
+1610,7,sound_quality | workout_stability | noise_cancellation,3,True
+1611,-1,connectivity,1,True
+1612,-1,,0,False
+1613,2,,0,False
+1614,0,sound_quality | comfort_fit | connectivity | price_value,4,True
+1615,2,gift_purchases,1,True
+1616,19,price_value,1,True
+1617,-1,sound_quality | battery,2,True
+1618,9,,0,False
+1619,20,sound_quality | comfort_fit | workout_stability | battery | connectivity | noise_cancellation | water_resistance | audio_defects | price_value,9,True
+1620,16,accessories,1,True
+1621,1,,0,False
+1622,18,comfort_fit | connectivity | audio_defects,3,True
+1623,12,workout_stability,1,True
+1624,9,sound_quality,1,True
+1625,21,connectivity | water_resistance | price_value,3,True
+1626,-1,,0,False
+1627,17,sound_quality | comfort_fit | connectivity | price_value,4,True
+1628,9,sound_quality | battery | charging_durability,3,True
+1629,11,,0,False
+1630,18,sound_quality,1,True
+1631,-1,,0,False
+1632,21,workout_stability,1,True
+1633,4,,0,False
+1634,15,charging_durability | connectivity,2,True
+1635,21,sound_quality | workout_stability | connectivity | price_value,4,True
+1636,13,workout_stability | battery | water_resistance,3,True
+1637,9,comfort_fit | battery,2,True
+1638,21,sound_quality | workout_stability | price_value | accessories,4,True
+1639,9,sound_quality | comfort_fit | price_value,3,True
+1640,14,battery | connectivity,2,True
+1641,4,gift_purchases,1,True
+1642,4,battery,1,True
+1643,18,workout_stability | connectivity | design_build,3,True
+1644,4,charging_durability,1,True
+1645,8,comfort_fit | repeat_purchases,2,True
+1646,21,,0,False
+1647,16,sound_quality | charging_durability | accessories,3,True
+1648,20,sound_quality | battery | connectivity | repeat_purchases,4,True
+1649,13,workout_stability | water_resistance,2,True
+1650,9,sound_quality,1,True
+1651,15,workout_stability | battery,2,True
+1652,10,water_resistance,1,True
+1653,9,sound_quality,1,True
+1654,-1,sound_quality | workout_stability | audio_defects,3,True
+1655,19,,0,False
+1656,18,sound_quality,1,True
+1657,2,,0,False
+1658,9,sound_quality | workout_stability,2,True
+1659,18,design_build,1,True
+1660,-1,charging_durability,1,True
+1661,2,,0,False
+1662,-1,connectivity,1,True
+1663,4,charging_durability,1,True
+1664,18,,0,False
+1665,14,sound_quality | charging_durability,2,True
+1666,21,sound_quality | workout_stability | battery | design_build | gift_purchases,5,True
+1667,9,sound_quality | battery | repeat_purchases,3,True
+1668,21,sound_quality | workout_stability | charging_durability | audio_defects,4,True
+1669,21,workout_stability | connectivity | price_value,3,True
+1670,18,sound_quality | workout_stability | charging_durability | connectivity | price_value,5,True
+1671,2,,0,False
+1672,18,,0,False
+1673,8,comfort_fit,1,True
+1674,20,connectivity | water_resistance | price_value | repeat_purchases,4,True
+1675,12,audio_defects,1,True
+1676,-1,sound_quality | comfort_fit | workout_stability | battery | charging_durability | connectivity | price_value,7,True
+1677,20,sound_quality | battery,2,True
+1678,20,sound_quality | comfort_fit | connectivity | noise_cancellation,4,True
+1679,18,sound_quality | connectivity,2,True
+1680,1,,0,False
+1681,-1,sound_quality | workout_stability | battery | connectivity | audio_defects | price_value,6,True
+1682,3,connectivity,1,True
+1683,11,sound_quality | workout_stability | connectivity,3,True
+1684,4,battery,1,True
+1685,4,battery,1,True
+1686,11,connectivity | price_value,2,True
+1687,-1,sound_quality | noise_cancellation,2,True
+1688,21,sound_quality | workout_stability | connectivity | water_resistance,4,True
+1689,3,connectivity,1,True
+1690,11,sound_quality | charging_durability | connectivity,3,True
+1691,2,price_value,1,True
+1692,0,sound_quality | workout_stability | battery,3,True
+1693,-1,comfort_fit | water_resistance,2,True
+1694,15,battery,1,True
+1695,-1,connectivity,1,True
+1696,9,sound_quality | battery | connectivity,3,True
+1697,-1,sound_quality | connectivity | price_value,3,True
+1698,21,,0,False
+1699,4,,0,False
+1700,15,sound_quality,1,True
+1701,0,sound_quality | price_value | design_build,3,True
+1702,2,,0,False
+1703,4,,0,False
+1704,0,sound_quality | comfort_fit | workout_stability | price_value,4,True
+1705,-1,comfort_fit,1,True
+1706,-1,,0,False
+1707,19,sound_quality | workout_stability,2,True
+1708,-1,price_value,1,True
+1709,12,sound_quality,1,True
+1710,-1,sound_quality | comfort_fit | noise_cancellation | water_resistance | price_value | design_build,6,True
+1711,19,sound_quality | battery | price_value,3,True
+1712,-1,,0,False
+1713,8,sound_quality | comfort_fit,2,True
+1714,13,,0,False
+1715,18,,0,False
+1716,2,price_value,1,True
+1717,9,sound_quality | connectivity,2,True
+1718,0,sound_quality | battery | design_build,3,True
+1719,13,sound_quality | connectivity | water_resistance,3,True
+1720,21,sound_quality | connectivity,2,True
+1721,6,sound_quality,1,True
+1722,4,price_value,1,True
+1723,18,comfort_fit,1,True
+1724,14,,0,False
+1725,-1,,0,False
+1726,-1,,0,False
+1727,7,sound_quality | workout_stability | noise_cancellation,3,True
+1728,2,,0,False
+1729,-1,,0,False
+1730,0,sound_quality,1,True
+1731,21,price_value,1,True
+1732,19,,0,False
+1733,21,sound_quality,1,True
+1734,3,,0,False
+1735,7,noise_cancellation,1,True
+1736,18,battery,1,True
+1737,17,sound_quality | comfort_fit | workout_stability | battery | connectivity | audio_defects | design_build,7,True
+1738,21,,0,False
+1739,13,workout_stability | charging_durability,2,True
+1740,10,sound_quality | connectivity | water_resistance,3,True
+1741,18,comfort_fit | design_build,2,True
+1742,18,comfort_fit,1,True
+1743,18,,0,False
+1744,-1,sound_quality | price_value,2,True
+1745,10,charging_durability | connectivity | water_resistance | price_value,4,True
+1746,2,repeat_purchases,1,True
+1747,2,,0,False
+1748,-1,sound_quality | workout_stability | connectivity,3,True
+1749,20,battery | charging_durability | connectivity | price_value,4,True
+1750,18,,0,False
+1751,4,charging_durability,1,True
+1752,11,sound_quality | price_value,2,True
+1753,-1,sound_quality,1,True
+1754,18,,0,False
+1755,9,sound_quality,1,True
+1756,18,,0,False
+1757,18,workout_stability,1,True
+1758,-1,battery | design_build,2,True
+1759,-1,sound_quality | comfort_fit | price_value,3,True
+1760,4,,0,False
+1761,3,connectivity,1,True
+1762,4,charging_durability,1,True
+1763,18,,0,False
+1764,7,sound_quality | connectivity | noise_cancellation | price_value,4,True
+1765,-1,battery,1,True
+1766,9,sound_quality | battery | noise_cancellation | design_build,4,True
+1767,18,sound_quality | comfort_fit,2,True
+1768,16,sound_quality | price_value | accessories,3,True
+1769,-1,sound_quality | battery,2,True
+1770,-1,sound_quality | battery,2,True
+1771,-1,comfort_fit | workout_stability | charging_durability | connectivity | price_value,5,True
+1772,14,connectivity | price_value,2,True
+1773,9,sound_quality,1,True
+1774,9,sound_quality | price_value,2,True
+1775,10,comfort_fit | water_resistance,2,True
+1776,19,,0,False
+1777,-1,connectivity,1,True
+1778,18,,0,False
+1779,19,,0,False
+1780,4,,0,False
+1781,21,workout_stability | battery | repeat_purchases,3,True
+1782,19,,0,False
+1783,-1,battery,1,True
+1784,20,battery,1,True
+1785,9,sound_quality,1,True
+1786,19,sound_quality | battery | price_value,3,True
+1787,20,sound_quality | battery | design_build,3,True
+1788,-1,connectivity,1,True
+1789,15,sound_quality | charging_durability | connectivity | price_value,4,True
+1790,4,,0,False
+1791,14,connectivity | repeat_purchases,2,True
+1792,2,,0,False
+1793,15,,0,False
+1794,20,sound_quality | battery | price_value,3,True
+1795,-1,sound_quality | comfort_fit,2,True
+1796,2,,0,False
+1797,11,sound_quality | connectivity,2,True
+1798,11,,0,False
+1799,2,price_value,1,True
+1800,-1,sound_quality,1,True
+1801,13,workout_stability,1,True
+1802,-1,sound_quality | connectivity,2,True
+1803,13,workout_stability | battery | connectivity | noise_cancellation | accessories,5,True
+1804,-1,sound_quality | battery,2,True
+1805,-1,sound_quality | price_value | accessories,3,True
+1806,9,sound_quality,1,True
+1807,14,connectivity,1,True
+1808,19,battery | charging_durability,2,True
+1809,20,noise_cancellation,1,True
+1810,9,sound_quality,1,True
+1811,21,sound_quality | workout_stability,2,True
+1812,21,workout_stability,1,True
+1813,16,battery | charging_durability | design_build,3,True
+1814,15,,0,False
+1815,-1,comfort_fit | battery | charging_durability | connectivity | accessories,5,True
+1816,-1,sound_quality | connectivity,2,True
+1817,10,comfort_fit | water_resistance,2,True
+1818,21,sound_quality | workout_stability | connectivity,3,True
+1819,16,sound_quality | connectivity | accessories,3,True
+1820,9,sound_quality | price_value,2,True
+1821,-1,,0,False
+1822,21,workout_stability,1,True
+1823,3,connectivity | water_resistance | price_value | repeat_purchases,4,True
+1824,-1,sound_quality,1,True
+1825,19,sound_quality | price_value,2,True
+1826,2,,0,False
+1827,19,price_value,1,True
+1828,3,sound_quality | battery | charging_durability | connectivity | design_build,5,True
+1829,18,sound_quality | connectivity | repeat_purchases,3,True
+1830,10,workout_stability | water_resistance,2,True
+1831,-1,comfort_fit,1,True
+1832,5,connectivity | accessories,2,True
+1833,2,price_value | accessories,2,True
+1834,-1,,0,False
+1835,-1,sound_quality | connectivity | price_value,3,True
+1836,18,design_build,1,True
+1837,1,,0,False
+1838,-1,workout_stability | water_resistance,2,True
+1839,18,sound_quality | battery | connectivity | price_value,4,True
+1840,2,,0,False
+1841,14,sound_quality | workout_stability,2,True
+1842,1,,0,False
+1843,9,sound_quality,1,True
+1844,14,charging_durability,1,True
+1845,6,sound_quality | workout_stability,2,True
+1846,21,workout_stability,1,True
+1847,-1,sound_quality | workout_stability,2,True
+1848,-1,,0,False
+1849,14,connectivity,1,True
+1850,11,sound_quality | connectivity | price_value | repeat_purchases,4,True
+1851,5,sound_quality | connectivity | price_value,3,True
+1852,-1,connectivity,1,True
+1853,10,water_resistance,1,True
+1854,15,sound_quality | comfort_fit | connectivity | noise_cancellation,4,True
+1855,10,sound_quality | water_resistance | price_value,3,True
+1856,21,comfort_fit | workout_stability | connectivity,3,True
+1857,19,sound_quality,1,True
+1858,-1,workout_stability,1,True
+1859,7,sound_quality | workout_stability,2,True
+1860,15,sound_quality | battery | connectivity,3,True
+1861,15,workout_stability | battery,2,True
+1862,21,workout_stability | connectivity,2,True
+1863,4,,0,False
+1864,9,sound_quality,1,True
+1865,-1,sound_quality | workout_stability | battery | charging_durability | noise_cancellation | audio_defects,6,True
+1866,19,sound_quality,1,True
+1867,21,sound_quality | workout_stability,2,True
+1868,21,workout_stability,1,True
+1869,21,workout_stability,1,True
+1870,4,battery,1,True
+1871,-1,workout_stability,1,True
+1872,21,workout_stability,1,True
+1873,18,,0,False
+1874,14,,0,False
+1875,15,battery | charging_durability | connectivity | price_value | repeat_purchases,5,True
+1876,20,sound_quality,1,True
+1877,15,sound_quality | battery,2,True
+1878,-1,sound_quality | connectivity,2,True
+1879,-1,sound_quality | comfort_fit | workout_stability | battery | connectivity | water_resistance,6,True
+1880,-1,sound_quality,1,True
+1881,4,,0,False
+1882,16,sound_quality | connectivity | price_value | accessories,4,True
+1883,21,sound_quality,1,True
+1884,10,water_resistance,1,True
+1885,15,,0,False
+1886,9,sound_quality | charging_durability | connectivity,3,True
+1887,-1,workout_stability | battery,2,True
+1888,9,sound_quality | battery,2,True
+1889,10,water_resistance,1,True
+1890,-1,sound_quality,1,True
+1891,4,charging_durability | connectivity | repeat_purchases,3,True
+1892,3,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+1893,9,sound_quality,1,True
+1894,-1,sound_quality | charging_durability | price_value,3,True
+1895,9,battery | connectivity,2,True
+1896,19,sound_quality | noise_cancellation,2,True
+1897,8,comfort_fit,1,True
+1898,18,sound_quality,1,True
+1899,15,,0,False
+1900,21,battery | connectivity | repeat_purchases,3,True
+1901,2,,0,False
+1902,2,,0,False
+1903,18,charging_durability | connectivity,2,True
+1904,2,price_value,1,True
+1905,-1,,0,False
+1906,13,sound_quality | workout_stability | battery,3,True
+1907,19,sound_quality,1,True
+1908,13,water_resistance | price_value,2,True
+1909,-1,charging_durability | connectivity | price_value,3,True
+1910,-1,sound_quality | battery | connectivity | price_value,4,True
+1911,4,,0,False
+1912,-1,,0,False
+1913,13,,0,False
+1914,18,sound_quality | connectivity | price_value,3,True
+1915,11,design_build,1,True
+1916,21,sound_quality | workout_stability | connectivity | price_value,4,True
+1917,13,sound_quality | workout_stability | battery | connectivity | repeat_purchases,5,True
+1918,19,price_value,1,True
+1919,2,,0,False
+1920,13,sound_quality | connectivity | water_resistance | accessories,4,True
+1921,2,price_value,1,True
+1922,0,connectivity,1,True
+1923,-1,sound_quality | connectivity | price_value,3,True
+1924,9,sound_quality | charging_durability | connectivity,3,True
+1925,21,sound_quality | workout_stability | audio_defects,3,True
+1926,18,,0,False
+1927,21,workout_stability,1,True
+1928,3,connectivity | repeat_purchases,2,True
+1929,14,charging_durability | connectivity | price_value,3,True
+1930,14,connectivity,1,True
+1931,-1,sound_quality | comfort_fit | connectivity,3,True
+1932,18,workout_stability | connectivity,2,True
+1933,0,sound_quality | workout_stability | connectivity,3,True
+1934,9,sound_quality | price_value,2,True
+1935,18,,0,False
+1936,-1,sound_quality,1,True
+1937,-1,,0,False
+1938,3,sound_quality | battery | connectivity,3,True
+1939,2,price_value,1,True
+1940,4,workout_stability,1,True
+1941,19,price_value,1,True
+1942,9,sound_quality | connectivity,2,True
+1943,14,charging_durability | connectivity | repeat_purchases,3,True
+1944,-1,,0,False
+1945,21,sound_quality | workout_stability,2,True
+1946,13,water_resistance,1,True
+1947,-1,,0,False
+1948,9,sound_quality,1,True
+1949,0,sound_quality | comfort_fit | design_build,3,True
+1950,7,sound_quality | workout_stability | noise_cancellation,3,True
+1951,2,price_value,1,True
+1952,1,,0,False
+1953,11,sound_quality | connectivity,2,True
+1954,7,sound_quality | battery | connectivity | noise_cancellation | price_value,5,True
+1955,14,connectivity,1,True
+1956,-1,charging_durability,1,True
+1957,-1,,0,False
+1958,19,battery | price_value | accessories,3,True
+1959,-1,sound_quality | workout_stability,2,True
+1960,14,connectivity,1,True
+1961,10,sound_quality | connectivity | water_resistance,3,True
+1962,-1,connectivity | price_value,2,True
+1963,0,sound_quality | comfort_fit | noise_cancellation | audio_defects | design_build,5,True
+1964,3,,0,False
+1965,18,connectivity | price_value,2,True
+1966,18,,0,False
+1967,-1,charging_durability,1,True
+1968,1,,0,False
+1969,19,,0,False
+1970,9,sound_quality | battery,2,True
+1971,21,sound_quality | workout_stability | charging_durability | accessories,4,True
+1972,4,,0,False
+1973,9,sound_quality,1,True
+1974,14,sound_quality | charging_durability | connectivity,3,True
+1975,0,,0,False
+1976,9,workout_stability | charging_durability | connectivity | price_value,4,True
+1977,3,connectivity,1,True
+1978,21,workout_stability | battery | price_value,3,True
+1979,4,,0,False
+1980,10,connectivity | water_resistance,2,True
+1981,9,sound_quality | battery | connectivity | repeat_purchases,4,True
+1982,4,,0,False
+1983,9,sound_quality | accessories,2,True
+1984,9,sound_quality,1,True
+1985,19,price_value,1,True
+1986,19,,0,False
+1987,15,workout_stability | charging_durability,2,True
+1988,3,connectivity | repeat_purchases,2,True
+1989,2,accessories,1,True
+1990,12,,0,False
+1991,9,,0,False
+1992,-1,sound_quality | charging_durability | connectivity,3,True
+1993,1,,0,False
+1994,-1,comfort_fit | battery,2,True
+1995,15,,0,False
+1996,-1,battery,1,True
+1997,21,workout_stability | price_value,2,True
+1998,-1,,0,False
+1999,3,sound_quality | comfort_fit | connectivity,3,True
+2000,9,sound_quality,1,True
+2001,14,sound_quality | workout_stability | battery | connectivity,4,True
+2002,0,sound_quality | comfort_fit | battery | charging_durability | connectivity | price_value | design_build,7,True
+2003,4,charging_durability,1,True
+2004,19,sound_quality,1,True
+2005,2,,0,False
+2006,15,battery | charging_durability | connectivity | price_value,4,True
+2007,-1,,0,False
+2008,11,connectivity,1,True
+2009,5,sound_quality | connectivity | price_value,3,True
+2010,-1,battery,1,True
+2011,3,connectivity | repeat_purchases,2,True
+2012,18,workout_stability | design_build,2,True
+2013,19,sound_quality | connectivity | price_value,3,True
+2014,13,water_resistance,1,True
+2015,18,workout_stability,1,True
+2016,11,,0,False
+2017,21,sound_quality | workout_stability | price_value,3,True
+2018,-1,,0,False
+2019,8,sound_quality | comfort_fit,2,True
+2020,16,,0,False
+2021,17,sound_quality | connectivity,2,True
+2022,-1,comfort_fit | battery,2,True
+2023,21,workout_stability,1,True
+2024,19,comfort_fit | connectivity,2,True
+2025,18,price_value,1,True
+2026,13,workout_stability | battery,2,True
+2027,19,price_value,1,True
+2028,17,sound_quality | connectivity | accessories,3,True
+2029,21,workout_stability | connectivity,2,True
+2030,15,battery,1,True
+2031,9,comfort_fit | battery,2,True
+2032,21,workout_stability | price_value,2,True
+2033,11,connectivity,1,True
+2034,21,,0,False
+2035,0,sound_quality | connectivity | accessories | repeat_purchases,4,True
+2036,15,sound_quality | design_build,2,True
+2037,-1,,0,False
+2038,15,,0,False
+2039,19,sound_quality | price_value,2,True
+2040,3,comfort_fit | battery | connectivity | repeat_purchases,4,True
+2041,13,sound_quality | battery | connectivity | water_resistance | repeat_purchases,5,True
+2042,18,,0,False
+2043,18,,0,False
+2044,-1,sound_quality | battery,2,True
+2045,-1,comfort_fit,1,True
+2046,18,,0,False
+2047,9,sound_quality | workout_stability,2,True
+2048,14,comfort_fit | battery | charging_durability | connectivity | price_value,5,True
+2049,21,workout_stability,1,True
+2050,-1,sound_quality | noise_cancellation,2,True
+2051,-1,sound_quality | workout_stability | battery | price_value,4,True
+2052,21,sound_quality | workout_stability | battery,3,True
+2053,0,sound_quality | connectivity | price_value,3,True
+2054,10,charging_durability | water_resistance,2,True
+2055,1,gift_purchases,1,True
+2056,10,workout_stability | connectivity | water_resistance,3,True
+2057,-1,sound_quality,1,True
+2058,-1,charging_durability,1,True
+2059,4,,0,False
+2060,-1,connectivity,1,True
+2061,-1,sound_quality,1,True
+2062,19,sound_quality | comfort_fit,2,True
+2063,21,workout_stability,1,True
+2064,-1,sound_quality | workout_stability | connectivity | gift_purchases,4,True
+2065,18,comfort_fit | workout_stability,2,True
+2066,4,,0,False
+2067,-1,comfort_fit | price_value,2,True
+2068,19,,0,False
+2069,-1,,0,False
+2070,13,sound_quality | workout_stability | battery | water_resistance | price_value,5,True
+2071,20,sound_quality | audio_defects | accessories,3,True
+2072,-1,workout_stability | battery,2,True
+2073,11,sound_quality,1,True
+2074,10,sound_quality | battery | noise_cancellation | water_resistance,4,True
+2075,-1,sound_quality,1,True
+2076,7,sound_quality | workout_stability | connectivity | noise_cancellation | price_value | repeat_purchases,6,True
+2077,-1,charging_durability | water_resistance,2,True
+2078,18,sound_quality | workout_stability | battery,3,True
+2079,7,sound_quality | comfort_fit | connectivity | noise_cancellation,4,True
+2080,10,water_resistance,1,True
+2081,2,,0,False
+2082,4,price_value,1,True
+2083,14,charging_durability | connectivity | price_value,3,True
+2084,17,connectivity,1,True
+2085,18,comfort_fit,1,True
+2086,9,sound_quality | charging_durability,2,True
+2087,9,sound_quality,1,True
+2088,-1,charging_durability | connectivity,2,True
+2089,-1,sound_quality | workout_stability | noise_cancellation,3,True
+2090,-1,sound_quality | price_value,2,True
+2091,-1,workout_stability,1,True
+2092,-1,,0,False
+2093,21,workout_stability | water_resistance | price_value,3,True
+2094,10,,0,False
+2095,17,comfort_fit | price_value,2,True
+2096,19,sound_quality | price_value,2,True
+2097,9,,0,False
+2098,6,sound_quality | noise_cancellation | price_value,3,True
+2099,21,sound_quality | workout_stability,2,True
+2100,-1,sound_quality | workout_stability | connectivity | price_value,4,True
+2101,9,sound_quality | battery,2,True
+2102,9,sound_quality,1,True
+2103,-1,sound_quality | charging_durability | price_value,3,True
+2104,19,sound_quality | workout_stability | battery | charging_durability,4,True
+2105,7,sound_quality | connectivity,2,True
+2106,21,sound_quality | workout_stability | battery | connectivity | water_resistance | price_value,6,True
+2107,9,sound_quality,1,True
+2108,18,sound_quality | battery,2,True
+2109,5,sound_quality | connectivity,2,True
+2110,20,sound_quality | price_value | accessories,3,True
+2111,-1,,0,False
+2112,5,sound_quality | connectivity | price_value,3,True
+2113,21,sound_quality | workout_stability | water_resistance,3,True
+2114,18,sound_quality | accessories,2,True
+2115,-1,sound_quality | battery | price_value,3,True
+2116,14,,0,False
+2117,21,sound_quality | workout_stability | price_value,3,True
+2118,21,workout_stability | price_value,2,True
+2119,1,,0,False
+2120,11,connectivity,1,True
+2121,19,sound_quality,1,True
+2122,15,sound_quality | charging_durability | connectivity | price_value,4,True
+2123,15,charging_durability | connectivity,2,True
+2124,-1,,0,False
+2125,-1,sound_quality | battery | connectivity | water_resistance | price_value,5,True
+2126,5,battery | connectivity | price_value,3,True
+2127,15,charging_durability,1,True
+2128,15,charging_durability | price_value,2,True
+2129,15,comfort_fit | workout_stability | battery | charging_durability | connectivity,5,True
+2130,-1,sound_quality | price_value,2,True
+2131,3,connectivity | repeat_purchases,2,True
+2132,-1,sound_quality,1,True
+2133,18,,0,False
+2134,15,design_build,1,True
+2135,18,comfort_fit,1,True
+2136,19,sound_quality | price_value,2,True
+2137,9,sound_quality | connectivity,2,True
+2138,19,sound_quality | comfort_fit | price_value,3,True
+2139,17,battery | connectivity,2,True
+2140,4,charging_durability,1,True
+2141,21,,0,False
+2142,15,charging_durability | connectivity | price_value | repeat_purchases,4,True
+2143,3,connectivity | accessories,2,True
+2144,-1,sound_quality | workout_stability | price_value,3,True
+2145,12,sound_quality | audio_defects,2,True
+2146,15,sound_quality | comfort_fit | battery | repeat_purchases,4,True
+2147,18,sound_quality | comfort_fit | connectivity,3,True
+2148,21,workout_stability,1,True
+2149,21,,0,False
+2150,14,sound_quality | comfort_fit | battery | charging_durability | connectivity | water_resistance | accessories | gift_purchases | repeat_purchases,9,True
+2151,6,sound_quality | comfort_fit | price_value,3,True
+2152,16,sound_quality | charging_durability | price_value,3,True
+2153,-1,charging_durability | water_resistance,2,True
+2154,14,sound_quality | battery | charging_durability | connectivity | price_value,5,True
+2155,6,sound_quality | connectivity,2,True
+2156,1,,0,False
+2157,7,sound_quality | workout_stability | connectivity | noise_cancellation,4,True
+2158,10,sound_quality | connectivity | water_resistance,3,True
+2159,-1,charging_durability | connectivity | price_value,3,True
+2160,-1,sound_quality | connectivity | price_value,3,True
+2161,18,price_value | design_build,2,True
+2162,3,connectivity | repeat_purchases,2,True
+2163,17,connectivity | design_build,2,True
+2164,2,,0,False
+2165,13,sound_quality | water_resistance,2,True
+2166,1,,0,False
+2167,9,sound_quality | battery,2,True
+2168,2,,0,False
+2169,21,comfort_fit | workout_stability,2,True
+2170,18,sound_quality | comfort_fit | connectivity | price_value,4,True
+2171,11,connectivity,1,True
+2172,2,,0,False
+2173,2,price_value,1,True
+2174,9,,0,False
+2175,14,charging_durability,1,True
+2176,0,sound_quality | connectivity,2,True
+2177,13,workout_stability | charging_durability | water_resistance,3,True
+2178,18,sound_quality | comfort_fit,2,True
+2179,15,sound_quality | workout_stability | battery,3,True
+2180,18,comfort_fit | connectivity,2,True
+2181,9,sound_quality | charging_durability,2,True
+2182,19,charging_durability | connectivity | price_value,3,True
+2183,-1,sound_quality | workout_stability,2,True
+2184,10,water_resistance,1,True
+2185,0,connectivity | price_value | design_build,3,True
+2186,2,,0,False
+2187,-1,,0,False
+2188,9,sound_quality,1,True
+2189,18,workout_stability | design_build,2,True
+2190,9,sound_quality | comfort_fit | accessories,3,True
+2191,21,charging_durability,1,True
+2192,10,connectivity | water_resistance,2,True
+2193,3,comfort_fit,1,True
+2194,18,connectivity | design_build,2,True
+2195,2,,0,False
+2196,-1,noise_cancellation | design_build,2,True
+2197,-1,workout_stability,1,True
+2198,-1,sound_quality | battery | charging_durability,3,True
+2199,6,sound_quality | comfort_fit | price_value | design_build,4,True
+2200,14,,0,False
+2201,19,sound_quality | connectivity,2,True
+2202,1,,0,False
+2203,21,sound_quality | workout_stability | price_value,3,True
+2204,8,comfort_fit,1,True
+2205,5,sound_quality | connectivity,2,True
+2206,21,workout_stability,1,True
+2207,2,,0,False
+2208,18,sound_quality | connectivity | design_build,3,True
+2209,19,,0,False
+2210,3,connectivity | water_resistance | price_value,3,True
+2211,21,workout_stability,1,True
+2212,11,connectivity,1,True
+2213,6,sound_quality,1,True
+2214,20,battery,1,True
+2215,0,battery | connectivity,2,True
+2216,9,sound_quality | workout_stability | battery,3,True
+2217,20,water_resistance,1,True
+2218,-1,sound_quality | workout_stability | charging_durability | noise_cancellation | price_value,5,True
+2219,14,,0,False
+2220,16,design_build | accessories,2,True
+2221,9,sound_quality | battery | price_value,3,True
+2222,7,battery | noise_cancellation,2,True
+2223,-1,sound_quality | battery | price_value,3,True
+2224,13,water_resistance,1,True
+2225,9,,0,False
+2226,1,,0,False
+2227,15,,0,False
+2228,13,sound_quality | connectivity | water_resistance | audio_defects | price_value | repeat_purchases,6,True
+2229,-1,sound_quality | connectivity | design_build,3,True
+2230,7,sound_quality | battery | connectivity | noise_cancellation | price_value,5,True
+2231,15,sound_quality | battery | price_value,3,True
+2232,-1,connectivity | price_value,2,True
+2233,15,sound_quality | comfort_fit | battery | charging_durability | price_value,5,True
+2234,-1,,0,False
+2235,9,sound_quality,1,True
+2236,4,charging_durability | connectivity | price_value | repeat_purchases,4,True
+2237,2,,0,False
+2238,6,sound_quality | accessories,2,True
+2239,-1,battery | charging_durability,2,True
+2240,9,sound_quality,1,True
+2241,15,,0,False
+2242,14,sound_quality | charging_durability,2,True
+2243,18,comfort_fit,1,True
+2244,21,,0,False
+2245,4,charging_durability | gift_purchases,2,True
+2246,20,battery | connectivity | noise_cancellation | price_value | repeat_purchases,5,True
+2247,4,,0,False
+2248,3,connectivity | repeat_purchases,2,True
+2249,3,connectivity,1,True
+2250,17,connectivity | price_value,2,True
+2251,21,workout_stability | noise_cancellation,2,True
+2252,18,,0,False
+2253,-1,workout_stability,1,True
+2254,15,battery,1,True
+2255,8,comfort_fit | workout_stability | battery | connectivity | repeat_purchases,5,True
+2256,14,charging_durability | connectivity,2,True
+2257,13,sound_quality | charging_durability | water_resistance,3,True
+2258,9,sound_quality,1,True
+2259,8,sound_quality | comfort_fit,2,True
+2260,-1,sound_quality,1,True
+2261,11,connectivity,1,True
+2262,18,,0,False
+2263,9,sound_quality | comfort_fit | price_value,3,True
+2264,21,charging_durability,1,True
+2265,11,sound_quality | charging_durability | connectivity,3,True
+2266,1,gift_purchases,1,True
+2267,9,sound_quality | price_value,2,True
+2268,21,,0,False
+2269,20,sound_quality | workout_stability | connectivity | water_resistance | price_value,5,True
+2270,-1,sound_quality | noise_cancellation,2,True
+2271,-1,,0,False
+2272,2,,0,False
+2273,4,charging_durability,1,True
+2274,21,workout_stability,1,True
+2275,18,,0,False
+2276,-1,workout_stability | battery | connectivity,3,True
+2277,-1,sound_quality | connectivity,2,True
+2278,9,sound_quality | battery,2,True
+2279,21,sound_quality,1,True
+2280,15,charging_durability | connectivity | price_value,3,True
+2281,-1,sound_quality | price_value,2,True
+2282,3,connectivity | repeat_purchases,2,True
+2283,9,sound_quality | connectivity | repeat_purchases,3,True
+2284,-1,sound_quality | connectivity | water_resistance | price_value,4,True
+2285,15,workout_stability | battery | connectivity | noise_cancellation | repeat_purchases,5,True
+2286,14,,0,False
+2287,21,sound_quality | workout_stability,2,True
+2288,12,sound_quality,1,True
+2289,14,battery,1,True
+2290,9,sound_quality | battery | charging_durability | connectivity,4,True
+2291,18,comfort_fit,1,True
+2292,21,sound_quality | workout_stability | battery,3,True
+2293,21,,0,False
+2294,13,sound_quality | workout_stability | battery,3,True
+2295,-1,battery,1,True
+2296,-1,sound_quality | battery,2,True
+2297,3,sound_quality | connectivity | repeat_purchases,3,True
+2298,11,sound_quality | connectivity,2,True
+2299,3,workout_stability | connectivity | repeat_purchases,3,True
+2300,-1,connectivity | price_value,2,True
+2301,-1,sound_quality | battery | charging_durability | connectivity,4,True
+2302,9,battery,1,True
+2303,0,sound_quality | battery,2,True
+2304,14,sound_quality | comfort_fit | noise_cancellation | accessories,4,True
+2305,11,sound_quality | connectivity,2,True
+2306,-1,accessories,1,True
+2307,4,accessories,1,True
+2308,21,sound_quality | workout_stability | battery | price_value,4,True
+2309,4,charging_durability,1,True
+2310,12,,0,False
+2311,18,price_value,1,True
+2312,0,connectivity,1,True
+2313,16,price_value,1,True
+2314,1,gift_purchases,1,True
+2315,17,sound_quality | comfort_fit | connectivity,3,True
+2316,-1,,0,False
+2317,14,charging_durability,1,True
+2318,18,workout_stability,1,True
+2319,21,workout_stability,1,True
+2320,-1,workout_stability | charging_durability,2,True
+2321,12,sound_quality | audio_defects,2,True
+2322,9,sound_quality | noise_cancellation,2,True
+2323,1,,0,False
+2324,3,connectivity,1,True
+2325,4,,0,False
+2326,15,,0,False
+2327,8,comfort_fit | price_value,2,True
+2328,0,,0,False
+2329,19,connectivity | repeat_purchases,2,True
+2330,3,charging_durability | connectivity,2,True
+2331,2,,0,False
+2332,-1,sound_quality | workout_stability | price_value,3,True
+2333,18,sound_quality | comfort_fit,2,True
+2334,13,sound_quality,1,True
+2335,9,sound_quality | connectivity,2,True
+2336,15,sound_quality | battery,2,True
+2337,-1,,0,False
+2338,18,workout_stability,1,True
+2339,8,sound_quality | comfort_fit,2,True
+2340,10,sound_quality | noise_cancellation | water_resistance,3,True
+2341,2,,0,False
+2342,4,charging_durability,1,True
+2343,0,,0,False
+2344,16,accessories,1,True
+2345,2,price_value,1,True
+2346,-1,comfort_fit,1,True
+2347,4,,0,False
+2348,1,price_value,1,True
+2349,17,sound_quality | comfort_fit | battery | charging_durability | connectivity,5,True
+2350,-1,,0,False
+2351,-1,sound_quality,1,True
+2352,15,workout_stability | charging_durability | gift_purchases,3,True
+2353,18,comfort_fit | design_build,2,True
+2354,-1,charging_durability,1,True
+2355,18,,0,False
+2356,2,design_build,1,True
+2357,20,workout_stability,1,True
+2358,19,,0,False
+2359,21,sound_quality | workout_stability | battery,3,True
+2360,11,sound_quality,1,True
+2361,-1,accessories,1,True
+2362,4,,0,False
+2363,4,,0,False
+2364,18,price_value,1,True
+2365,19,,0,False
+2366,16,sound_quality | price_value | accessories,3,True
+2367,-1,sound_quality | comfort_fit | workout_stability | battery | charging_durability | connectivity | accessories,7,True
+2368,21,sound_quality | workout_stability | connectivity | repeat_purchases,4,True
+2369,9,sound_quality | charging_durability,2,True
+2370,15,connectivity,1,True
+2371,6,sound_quality | comfort_fit | connectivity | accessories,4,True
+2372,-1,sound_quality | comfort_fit | accessories,3,True
+2373,19,,0,False
+2374,-1,sound_quality | workout_stability,2,True
+2375,21,workout_stability,1,True
+2376,2,price_value,1,True
+2377,7,sound_quality | noise_cancellation,2,True
+2378,21,battery | connectivity,2,True
+2379,9,sound_quality,1,True
+2380,9,battery | charging_durability | connectivity,3,True
+2381,18,,0,False
+2382,14,charging_durability | connectivity | repeat_purchases,3,True
+2383,20,sound_quality,1,True
+2384,9,sound_quality | water_resistance | price_value,3,True
+2385,13,sound_quality | workout_stability | battery | connectivity | water_resistance | price_value,6,True
+2386,2,price_value,1,True
+2387,21,workout_stability,1,True
+2388,-1,sound_quality | comfort_fit | workout_stability | battery | design_build,5,True
+2389,-1,sound_quality | comfort_fit | connectivity,3,True
+2390,9,sound_quality,1,True
+2391,19,price_value,1,True
+2392,7,noise_cancellation | price_value,2,True
+2393,-1,sound_quality | charging_durability,2,True
+2394,21,workout_stability | connectivity,2,True
+2395,9,,0,False
+2396,11,sound_quality | comfort_fit | connectivity | price_value | gift_purchases,5,True
+2397,21,workout_stability,1,True
+2398,0,price_value,1,True
+2399,-1,charging_durability,1,True
+2400,9,sound_quality,1,True
+2401,4,charging_durability | price_value,2,True
+2402,20,workout_stability,1,True
+2403,21,sound_quality | workout_stability,2,True
+2404,14,,0,False
+2405,-1,sound_quality | connectivity,2,True
+2406,4,charging_durability,1,True
+2407,1,,0,False
+2408,-1,battery | water_resistance | price_value,3,True
+2409,9,sound_quality,1,True
+2410,-1,sound_quality | price_value,2,True
+2411,21,sound_quality,1,True
+2412,19,,0,False
+2413,18,sound_quality | workout_stability,2,True
+2414,0,sound_quality | price_value | accessories | repeat_purchases,4,True
+2415,0,workout_stability | price_value,2,True
+2416,21,battery | connectivity,2,True
+2417,2,,0,False
+2418,8,comfort_fit,1,True
+2419,-1,price_value,1,True
+2420,14,charging_durability,1,True
+2421,-1,,0,False
+2422,13,sound_quality | comfort_fit,2,True
+2423,4,,0,False
+2424,9,sound_quality | connectivity,2,True
+2425,14,charging_durability | connectivity,2,True
+2426,18,workout_stability,1,True
+2427,18,comfort_fit,1,True
+2428,2,repeat_purchases,1,True
+2429,0,sound_quality | workout_stability | charging_durability | price_value,4,True
+2430,19,sound_quality | connectivity,2,True
+2431,0,sound_quality,1,True
+2432,19,,0,False
+2433,6,sound_quality | price_value | accessories,3,True
+2434,21,sound_quality | comfort_fit | workout_stability | connectivity | design_build,5,True
+2435,10,sound_quality | water_resistance,2,True
+2436,19,,0,False
+2437,21,sound_quality | workout_stability,2,True
+2438,4,,0,False
+2439,14,charging_durability | connectivity,2,True
+2440,9,,0,False
+2441,-1,connectivity,1,True
+2442,9,sound_quality | connectivity,2,True
+2443,5,connectivity,1,True
+2444,7,sound_quality | noise_cancellation | price_value,3,True
+2445,19,connectivity | price_value,2,True
+2446,15,sound_quality | workout_stability,2,True
+2447,14,charging_durability,1,True
+2448,9,sound_quality,1,True
+2449,9,sound_quality | battery,2,True
+2450,21,price_value,1,True
+2451,-1,,0,False
+2452,9,sound_quality,1,True
+2453,-1,price_value,1,True
+2454,-1,battery | water_resistance,2,True
+2455,2,price_value,1,True
+2456,9,sound_quality,1,True
+2457,-1,price_value,1,True
+2458,-1,sound_quality | comfort_fit,2,True
+2459,20,sound_quality | workout_stability,2,True
+2460,18,workout_stability,1,True
+2461,11,connectivity,1,True
+2462,2,price_value,1,True
+2463,21,sound_quality,1,True
+2464,-1,,0,False
+2465,9,sound_quality,1,True
+2466,19,sound_quality,1,True
+2467,21,workout_stability,1,True
+2468,21,sound_quality | workout_stability | connectivity | price_value,4,True
+2469,8,sound_quality | comfort_fit | price_value,3,True
+2470,-1,,0,False
+2471,-1,comfort_fit | workout_stability | battery,3,True
+2472,14,sound_quality | battery | connectivity,3,True
+2473,15,comfort_fit,1,True
+2474,1,,0,False
+2475,18,sound_quality,1,True
+2476,9,battery | price_value,2,True
+2477,5,sound_quality | connectivity,2,True
+2478,21,sound_quality | charging_durability | price_value,3,True
+2479,21,sound_quality | workout_stability | connectivity | design_build,4,True
+2480,9,sound_quality | battery,2,True
+2481,-1,sound_quality,1,True
+2482,18,workout_stability,1,True
+2483,19,price_value,1,True
+2484,17,connectivity,1,True
+2485,4,,0,False
+2486,-1,sound_quality | comfort_fit | connectivity | price_value,4,True
+2487,9,sound_quality | price_value,2,True
+2488,13,,0,False
+2489,0,sound_quality | comfort_fit | battery | connectivity,4,True
+2490,-1,,0,False
+2491,13,sound_quality | connectivity,2,True
+2492,-1,,0,False
+2493,1,,0,False
+2494,8,sound_quality | comfort_fit,2,True
+2495,14,,0,False
+2496,-1,sound_quality,1,True
+2497,15,sound_quality | workout_stability | battery | price_value,4,True
+2498,0,comfort_fit | workout_stability | charging_durability | connectivity | price_value,5,True
+2499,5,sound_quality | connectivity,2,True
+2500,21,sound_quality | workout_stability | battery | charging_durability,4,True
+2501,4,charging_durability,1,True
+2502,5,sound_quality | workout_stability | connectivity | design_build,4,True
+2503,14,battery | charging_durability,2,True
+2504,19,battery,1,True
+2505,3,connectivity,1,True
+2506,7,sound_quality | workout_stability | price_value,3,True
+2507,9,sound_quality,1,True
+2508,0,sound_quality | connectivity,2,True
+2509,17,sound_quality | comfort_fit | battery | connectivity,4,True
+2510,17,sound_quality | connectivity,2,True
+2511,10,comfort_fit | charging_durability | water_resistance,3,True
+2512,-1,sound_quality | battery | connectivity | price_value,4,True
+2513,14,battery | charging_durability | connectivity | noise_cancellation,4,True
+2514,-1,sound_quality | battery | charging_durability | connectivity,4,True
+2515,-1,connectivity,1,True
+2516,11,connectivity,1,True
+2517,15,price_value | design_build,2,True
+2518,9,sound_quality,1,True
+2519,11,price_value,1,True
+2520,4,charging_durability | repeat_purchases,2,True
+2521,13,sound_quality | water_resistance,2,True
+2522,3,connectivity | repeat_purchases,2,True
+2523,21,sound_quality | price_value,2,True
+2524,18,workout_stability,1,True
+2525,1,gift_purchases,1,True
+2526,6,sound_quality | price_value,2,True
+2527,4,,0,False
+2528,1,,0,False
+2529,-1,sound_quality | workout_stability | battery | noise_cancellation,4,True
+2530,-1,,0,False
+2531,-1,charging_durability,1,True
+2532,18,sound_quality,1,True
+2533,21,workout_stability,1,True
+2534,11,connectivity | price_value,2,True
+2535,-1,sound_quality | comfort_fit | connectivity,3,True
+2536,-1,,0,False
+2537,17,sound_quality | workout_stability | connectivity,3,True
+2538,18,,0,False
+2539,-1,battery,1,True
+2540,18,comfort_fit,1,True
+2541,19,sound_quality,1,True
+2542,-1,,0,False
+2543,18,comfort_fit,1,True
+2544,-1,sound_quality | workout_stability | price_value,3,True
+2545,11,charging_durability | connectivity,2,True
+2546,15,sound_quality | comfort_fit | battery | charging_durability | connectivity | noise_cancellation | price_value | repeat_purchases,8,True
+2547,18,comfort_fit,1,True
+2548,15,comfort_fit | battery,2,True
+2549,-1,sound_quality,1,True
+2550,9,sound_quality | price_value,2,True
+2551,8,sound_quality | comfort_fit,2,True
+2552,13,charging_durability | water_resistance,2,True
+2553,15,,0,False
+2554,11,sound_quality | connectivity | audio_defects,3,True
+2555,14,,0,False
+2556,9,,0,False
+2557,9,sound_quality,1,True
+2558,10,water_resistance,1,True
+2559,-1,sound_quality | workout_stability | connectivity | price_value,4,True
+2560,2,price_value,1,True
+2561,-1,sound_quality | battery,2,True
+2562,-1,sound_quality | workout_stability | battery | repeat_purchases,4,True
+2563,-1,,0,False
+2564,9,sound_quality,1,True
+2565,0,sound_quality | battery | connectivity,3,True
+2566,19,sound_quality | charging_durability | price_value,3,True
+2567,13,sound_quality | design_build,2,True
+2568,8,sound_quality | comfort_fit,2,True
+2569,3,charging_durability | connectivity | repeat_purchases,3,True
+2570,21,workout_stability | water_resistance | price_value,3,True
+2571,10,connectivity | water_resistance,2,True
+2572,-1,sound_quality | price_value,2,True
+2573,3,sound_quality | connectivity | noise_cancellation | price_value,4,True
+2574,3,battery | connectivity | repeat_purchases,3,True
+2575,18,workout_stability | design_build,2,True
+2576,19,sound_quality | battery,2,True
+2577,-1,,0,False
+2578,17,comfort_fit | connectivity,2,True
+2579,9,workout_stability,1,True
+2580,-1,connectivity | noise_cancellation | design_build,3,True
+2581,4,,0,False
+2582,2,price_value,1,True
+2583,20,sound_quality | workout_stability | battery | accessories,4,True
+2584,17,sound_quality | connectivity | repeat_purchases,3,True
+2585,1,gift_purchases,1,True
+2586,20,sound_quality | connectivity | price_value,3,True
+2587,6,sound_quality | charging_durability | connectivity | price_value | repeat_purchases,5,True
+2588,-1,workout_stability | noise_cancellation,2,True
+2589,-1,sound_quality | charging_durability | connectivity | repeat_purchases,4,True
+2590,4,charging_durability,1,True
+2591,18,,0,False
+2592,4,,0,False
+2593,19,,0,False
+2594,9,sound_quality,1,True
+2595,14,,0,False
+2596,16,sound_quality | connectivity | price_value | accessories,4,True
+2597,9,sound_quality,1,True
+2598,9,sound_quality,1,True
+2599,19,sound_quality | connectivity | gift_purchases,3,True
+2600,5,,0,False
+2601,-1,,0,False
+2602,17,sound_quality | workout_stability | connectivity,3,True
+2603,15,sound_quality | comfort_fit,2,True
+2604,2,,0,False
+2605,21,workout_stability | price_value,2,True
+2606,17,comfort_fit | connectivity,2,True
+2607,14,,0,False
+2608,0,sound_quality | battery,2,True
+2609,5,sound_quality,1,True
+2610,21,sound_quality | workout_stability | connectivity | price_value,4,True
+2611,4,,0,False
+2612,-1,connectivity,1,True
+2613,-1,,0,False
+2614,9,sound_quality | price_value,2,True
+2615,4,,0,False
+2616,18,sound_quality | battery | connectivity | price_value,4,True
+2617,14,comfort_fit | connectivity | price_value,3,True
+2618,-1,connectivity,1,True
+2619,21,comfort_fit | connectivity,2,True
+2620,1,,0,False
+2621,-1,sound_quality | comfort_fit | price_value,3,True
+2622,10,water_resistance,1,True
+2623,10,workout_stability | charging_durability | water_resistance,3,True
+2624,9,sound_quality | price_value,2,True
+2625,14,connectivity,1,True
+2626,4,charging_durability,1,True
+2627,14,connectivity | repeat_purchases,2,True
+2628,9,sound_quality,1,True
+2629,-1,comfort_fit | connectivity,2,True
+2630,15,sound_quality | battery | charging_durability,3,True
+2631,2,price_value,1,True
+2632,-1,sound_quality | battery,2,True
+2633,21,,0,False
+2634,9,sound_quality,1,True
+2635,7,sound_quality | charging_durability | connectivity | noise_cancellation,4,True
+2636,-1,sound_quality | charging_durability | audio_defects,3,True
+2637,4,charging_durability,1,True
+2638,-1,sound_quality | connectivity | audio_defects,3,True
+2639,9,sound_quality | price_value,2,True
+2640,18,sound_quality | charging_durability | design_build | gift_purchases,4,True
+2641,12,sound_quality | connectivity,2,True
+2642,-1,,0,False
+2643,21,workout_stability | battery | connectivity,3,True
+2644,17,,0,False
+2645,4,charging_durability,1,True
+2646,20,sound_quality | comfort_fit | workout_stability | connectivity | price_value | design_build,6,True
+2647,1,,0,False
+2648,-1,sound_quality | comfort_fit | battery | design_build,4,True
+2649,10,sound_quality | connectivity | water_resistance,3,True
+2650,-1,sound_quality | accessories,2,True
+2651,9,sound_quality,1,True
+2652,0,sound_quality | connectivity,2,True
+2653,2,,0,False
+2654,18,sound_quality,1,True
+2655,-1,sound_quality | battery | connectivity,3,True
+2656,11,sound_quality | comfort_fit | connectivity,3,True
+2657,18,comfort_fit,1,True
+2658,14,repeat_purchases,1,True
+2659,9,sound_quality,1,True
+2660,-1,workout_stability | battery | connectivity | audio_defects,4,True
+2661,9,sound_quality | battery | charging_durability,3,True
+2662,-1,charging_durability,1,True
+2663,-1,sound_quality,1,True
+2664,9,sound_quality | battery | price_value,3,True
+2665,-1,sound_quality | workout_stability | accessories,3,True
+2666,19,sound_quality | connectivity | price_value,3,True
+2667,4,charging_durability | accessories,2,True
+2668,2,,0,False
+2669,2,,0,False
+2670,18,,0,False
+2671,18,sound_quality | price_value,2,True
+2672,-1,sound_quality | workout_stability | price_value,3,True
+2673,-1,,0,False
+2674,21,sound_quality | workout_stability | battery | price_value,4,True
+2675,14,,0,False
+2676,14,charging_durability | connectivity,2,True
+2677,18,,0,False
+2678,-1,sound_quality | price_value,2,True
+2679,-1,workout_stability,1,True
+2680,9,battery,1,True
+2681,14,sound_quality | connectivity,2,True
+2682,-1,,0,False
+2683,19,sound_quality | battery | connectivity,3,True
+2684,9,sound_quality,1,True
+2685,-1,sound_quality | workout_stability | price_value,3,True
+2686,9,sound_quality,1,True
+2687,21,comfort_fit | connectivity | water_resistance,3,True
+2688,11,connectivity,1,True
+2689,8,sound_quality | comfort_fit,2,True
+2690,4,charging_durability,1,True
+2691,15,sound_quality | battery,2,True
+2692,3,charging_durability | connectivity,2,True
+2693,18,comfort_fit | workout_stability,2,True
+2694,9,sound_quality,1,True
+2695,0,connectivity | repeat_purchases,2,True
+2696,-1,connectivity,1,True
+2697,21,workout_stability | battery,2,True
+2698,-1,sound_quality | comfort_fit | connectivity,3,True
+2699,2,,0,False
+2700,-1,sound_quality | comfort_fit | charging_durability,3,True
+2701,4,,0,False
+2702,4,,0,False
+2703,19,,0,False
+2704,0,price_value,1,True
+2705,10,sound_quality | workout_stability | charging_durability | connectivity | water_resistance,5,True
+2706,18,workout_stability,1,True
+2707,15,battery,1,True
+2708,-1,connectivity,1,True
+2709,18,sound_quality,1,True
+2710,17,sound_quality | comfort_fit | connectivity | price_value,4,True
+2711,18,,0,False
+2712,7,noise_cancellation | gift_purchases,2,True
+2713,3,connectivity | price_value,2,True
+2714,21,comfort_fit | connectivity | noise_cancellation,3,True
+2715,20,,0,False
+2716,21,sound_quality | comfort_fit | workout_stability,3,True
+2717,-1,comfort_fit | battery,2,True
+2718,15,battery | connectivity | price_value,3,True
+2719,7,,0,False
+2720,-1,connectivity | price_value,2,True
+2721,-1,,0,False
+2722,4,,0,False
+2723,9,,0,False
+2724,9,sound_quality | battery | price_value,3,True
+2725,-1,workout_stability,1,True
+2726,-1,,0,False
+2727,-1,comfort_fit | charging_durability | connectivity,3,True
+2728,20,sound_quality | price_value,2,True
+2729,2,,0,False
+2730,9,sound_quality,1,True
+2731,9,sound_quality | battery | noise_cancellation,3,True
+2732,11,connectivity,1,True
+2733,-1,price_value,1,True
+2734,5,sound_quality | connectivity | noise_cancellation,3,True
+2735,18,,0,False
+2736,18,,0,False
+2737,6,sound_quality,1,True
+2738,15,workout_stability | charging_durability | connectivity | repeat_purchases,4,True
+2739,-1,sound_quality | battery | charging_durability,3,True
+2740,-1,design_build,1,True
+2741,5,sound_quality | connectivity,2,True
+2742,1,,0,False
+2743,13,sound_quality | workout_stability | battery | connectivity,4,True
+2744,18,design_build,1,True
+2745,9,sound_quality,1,True
+2746,21,workout_stability,1,True
+2747,21,sound_quality | workout_stability | battery,3,True
+2748,0,connectivity,1,True
+2749,17,sound_quality,1,True
+2750,-1,,0,False
+2751,19,sound_quality | battery | price_value,3,True
+2752,19,sound_quality | connectivity,2,True
+2753,9,sound_quality | battery,2,True
+2754,9,sound_quality | price_value,2,True
