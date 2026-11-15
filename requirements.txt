@@ -6,20 +6,12 @@ numpy
 # Machine learning and embeddings
 scikit-learn
 sentence-transformers
-umap-learn
-hdbscan
-
-# Text processing
+umap
+hbdscan
+scikit-learn
 langdetect
 beautifulsoup4
 
 # Visualization and dashboard
 streamlit
 plotly
-
-# Utilities
-python-dotenv
-tqdm
-
-# API integration for LLM-based insights
-requests
